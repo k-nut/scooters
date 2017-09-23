@@ -1,0 +1,4691 @@
+{
+  "meta": {
+    "server_time": "2017-09-23T12:07:05.195Z",
+    "status": 0,
+    "key": "OK"
+  },
+  "data": {
+    "scooters" : [
+    {
+      "id": "4c1f2ec7-b0c0-4858-a192-06a8027973c0",
+      "license_plate": "283ERE",
+      "energy_level": 65,
+      "distance_to_travel": 39.0,
+      "location": {
+        "lng": 13.314319905369365,
+        "lat": 52.525869792689484
+      }
+    },    {
+      "id": "d4239024-7fc5-4d71-82e2-9dba43dbb2bf",
+      "license_plate": "262ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.315784076609997,
+        "lat": 52.50902221232816
+      }
+    },    {
+      "id": "2ff4764c-bee7-47fa-bef1-33471bb86f88",
+      "license_plate": "535ERE",
+      "energy_level": 52,
+      "distance_to_travel": 31.2,
+      "location": {
+        "lng": 13.422030848923336,
+        "lat": 52.496005489600485
+      }
+    },    {
+      "id": "137aa30e-fecb-44e8-a9e3-fd84305f950b",
+      "license_plate": "245ERE",
+      "energy_level": 40,
+      "distance_to_travel": 24.0,
+      "location": {
+        "lng": 13.402199325309146,
+        "lat": 52.54854406970482
+      }
+    },    {
+      "id": "634b054d-b9f7-41c9-a506-9e185a59aac2",
+      "license_plate": "247ERE",
+      "energy_level": 57,
+      "distance_to_travel": 34.199999999999996,
+      "location": {
+        "lng": 13.340014438294306,
+        "lat": 52.488149863312216
+      }
+    },    {
+      "id": "9d71f7a9-79d4-47f1-b512-b31f6636b938",
+      "license_plate": "681ERE",
+      "energy_level": 47,
+      "distance_to_travel": 28.2,
+      "location": {
+        "lng": 13.47791842571771,
+        "lat": 52.50010289319075
+      }
+    },    {
+      "id": "b6ba5e8b-fe02-4a98-90a2-202fb61a4ab1",
+      "license_plate": "308ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.320061972145213,
+        "lat": 52.50521453989632
+      }
+    },    {
+      "id": "cd25147a-cdfc-4be6-ace3-168a2476574a",
+      "license_plate": "863ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.340159873135551,
+        "lat": 52.48873676224413
+      }
+    },    {
+      "id": "fcb5b878-c76c-4925-9160-8a0b0a65cb23",
+      "license_plate": "664ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.320792141754838,
+        "lat": 52.520665730700074
+      }
+    },    {
+      "id": "815238c5-c170-4925-8bb8-31d2e0082cf9",
+      "license_plate": "601ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.335828216746823,
+        "lat": 52.505401688798706
+      }
+    },    {
+      "id": "257f4556-0e8b-46d2-a15d-0c6f0d5f2f8e",
+      "license_plate": "272ERE",
+      "energy_level": 68,
+      "distance_to_travel": 40.8,
+      "location": {
+        "lng": 13.337862965107908,
+        "lat": 52.50509660868123
+      }
+    },    {
+      "id": "d3772a29-7298-4842-a776-076fe0466a2b",
+      "license_plate": "608ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.394318105947352,
+        "lat": 52.550490018640076
+      }
+    },    {
+      "id": "586e8c11-9a36-4f61-ab53-cb277bdac8a2",
+      "license_plate": "647ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.433912567501043,
+        "lat": 52.48033480713025
+      }
+    },    {
+      "id": "88e096ef-65f0-4bb2-8f5f-8916cb5cc8a9",
+      "license_plate": "207ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.476517631453063,
+        "lat": 52.51329860008378
+      }
+    },    {
+      "id": "e524a2b5-9b86-4fa8-963b-c9de1db203fc",
+      "license_plate": "737ERE",
+      "energy_level": 51,
+      "distance_to_travel": 30.599999999999998,
+      "location": {
+        "lng": 13.303363051770079,
+        "lat": 52.51082009912708
+      }
+    },    {
+      "id": "fcbb036e-67d3-4938-9e7f-9c1fdccbee32",
+      "license_plate": "355ERE",
+      "energy_level": 51,
+      "distance_to_travel": 30.599999999999998,
+      "location": {
+        "lng": 13.426461576896022,
+        "lat": 52.54719255372745
+      }
+    },    {
+      "id": "1359e9c8-ebe1-4b27-b99a-e7c818826230",
+      "license_plate": "684ERE",
+      "energy_level": 65,
+      "distance_to_travel": 39.0,
+      "location": {
+        "lng": 13.305493942240533,
+        "lat": 52.520435709564
+      }
+    },    {
+      "id": "164d2956-80f6-4294-b1b8-b4f1886aeb3a",
+      "license_plate": "441ERE",
+      "energy_level": 88,
+      "distance_to_travel": 52.8,
+      "location": {
+        "lng": 13.388923105305937,
+        "lat": 52.50007814382642
+      }
+    },    {
+      "id": "74d6cf3b-34c4-4c97-b192-0ea73d8c20cc",
+      "license_plate": "532ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.34504697649346,
+        "lat": 52.48729567590087
+      }
+    },    {
+      "id": "935b83aa-d6a5-4fb0-a45b-c8dbb098b131",
+      "license_plate": "423ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.45714706457781,
+        "lat": 52.528894352458884
+      }
+    },    {
+      "id": "728e6c8a-f5a0-4adc-b151-f9367b2fb95c",
+      "license_plate": "538ERE",
+      "energy_level": 88,
+      "distance_to_travel": 52.8,
+      "location": {
+        "lng": 13.418841687493376,
+        "lat": 52.51046350000105
+      }
+    },    {
+      "id": "2e0f16b0-520a-4b58-b16f-397e6dd14070",
+      "license_plate": "440ERE",
+      "energy_level": 77,
+      "distance_to_travel": 46.199999999999996,
+      "location": {
+        "lng": 13.378912409046347,
+        "lat": 52.507152469129835
+      }
+    },    {
+      "id": "db851e5b-ff6b-451f-b269-a9c432288d83",
+      "license_plate": "585ERE",
+      "energy_level": 72,
+      "distance_to_travel": 43.199999999999996,
+      "location": {
+        "lng": 13.341981067393293,
+        "lat": 52.49162800996122
+      }
+    },    {
+      "id": "603fd3ba-621c-40cd-8847-2566a888ed9b",
+      "license_plate": "324ERE",
+      "energy_level": 92,
+      "distance_to_travel": 55.199999999999996,
+      "location": {
+        "lng": 13.343573128965101,
+        "lat": 52.4841472757435
+      }
+    },    {
+      "id": "d4194173-ea44-453a-920e-a4e6f8b298da",
+      "license_plate": "659ERE",
+      "energy_level": 83,
+      "distance_to_travel": 49.8,
+      "location": {
+        "lng": 13.421080862559988,
+        "lat": 52.48737174788003
+      }
+    },    {
+      "id": "a4fd9474-fb4a-4a4b-904e-005844e09bea",
+      "license_plate": "219ERE",
+      "energy_level": 93,
+      "distance_to_travel": 55.8,
+      "location": {
+        "lng": 13.289479147208466,
+        "lat": 52.51664164227114
+      }
+    },    {
+      "id": "8809cd06-b6dd-4dd9-bf12-67b8d6d3a8a4",
+      "license_plate": "149ERE",
+      "energy_level": 79,
+      "distance_to_travel": 47.4,
+      "location": {
+        "lng": 13.315478703064713,
+        "lat": 52.500995307761805
+      }
+    },    {
+      "id": "a779e506-b7b9-4861-84bd-df3f3a0df626",
+      "license_plate": "158ERE",
+      "energy_level": 79,
+      "distance_to_travel": 47.4,
+      "location": {
+        "lng": 13.382670425234336,
+        "lat": 52.54865868218914
+      }
+    },    {
+      "id": "ea402055-87ff-47d4-b6ef-6f49f29e1338",
+      "license_plate": "385ERE",
+      "energy_level": 69,
+      "distance_to_travel": 41.4,
+      "location": {
+        "lng": 13.320520993259745,
+        "lat": 52.5075698424201
+      }
+    },    {
+      "id": "5363c358-8699-4a3f-84a6-ac16aaa12bf0",
+      "license_plate": "661ERE",
+      "energy_level": 56,
+      "distance_to_travel": 33.6,
+      "location": {
+        "lng": 13.424190667916756,
+        "lat": 52.55208790874171
+      }
+    },    {
+      "id": "ce1ebe5b-7a4e-4f62-bf19-c5b423c298ab",
+      "license_plate": "641ERE",
+      "energy_level": 84,
+      "distance_to_travel": 50.4,
+      "location": {
+        "lng": 13.39898,
+        "lat": 52.53276800000136
+      }
+    },    {
+      "id": "d7af9b69-7272-4526-8463-95249b3d6335",
+      "license_plate": "513ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.28690357739735,
+        "lat": 52.517996808404085
+      }
+    },    {
+      "id": "b6f3e172-0dae-4dae-88c8-eb20dfe5bee8",
+      "license_plate": "596ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.317985918934854,
+        "lat": 52.50758137345685
+      }
+    },    {
+      "id": "8f73de47-5af2-4445-856f-8ec9ce4ccd89",
+      "license_plate": "267ERE",
+      "energy_level": 87,
+      "distance_to_travel": 52.199999999999996,
+      "location": {
+        "lng": 13.462824777526908,
+        "lat": 52.51692276762981
+      }
+    },    {
+      "id": "0b26337d-8f79-46d1-854d-373f49955e50",
+      "license_plate": "277ERE",
+      "energy_level": 70,
+      "distance_to_travel": 42.0,
+      "location": {
+        "lng": 13.433510684998668,
+        "lat": 52.54961942213625
+      }
+    },    {
+      "id": "69699fa7-8df8-4f57-b343-e5f935bb55c7",
+      "license_plate": "286ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.360720661957094,
+        "lat": 52.52758340968758
+      }
+    },    {
+      "id": "44b82618-d593-4538-a45b-7fc3b21d740d",
+      "license_plate": "343ERE",
+      "energy_level": 80,
+      "distance_to_travel": 48.0,
+      "location": {
+        "lng": 13.441592900561872,
+        "lat": 52.47963583815315
+      }
+    },    {
+      "id": "9f137cc6-07d1-4b95-b126-bcf47d48d7a9",
+      "license_plate": "487ERE",
+      "energy_level": 91,
+      "distance_to_travel": 54.6,
+      "location": {
+        "lng": 13.465551362440126,
+        "lat": 52.509024369624186
+      }
+    },    {
+      "id": "ebf8a82f-af5a-4a6d-9021-1d33011ee674",
+      "license_plate": "887ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.305999536123794,
+        "lat": 52.49972133583261
+      }
+    },    {
+      "id": "3f7dfd7c-3d58-4598-a6ab-dd9e28d2a9e3",
+      "license_plate": "198ERE",
+      "energy_level": 43,
+      "distance_to_travel": 25.8,
+      "location": {
+        "lng": 13.44714664131058,
+        "lat": 52.510569089408705
+      }
+    },    {
+      "id": "07242857-b486-4964-a39d-fa45cc814e01",
+      "license_plate": "128ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.358552533121328,
+        "lat": 52.523329860450595
+      }
+    },    {
+      "id": "10179c7e-20c9-4987-a43e-3245d8c7fbbd",
+      "license_plate": "397ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.435806803300427,
+        "lat": 52.468518585731
+      }
+    },    {
+      "id": "2e5d1786-5cd5-49c6-9105-ad278c7c1ad6",
+      "license_plate": "843ERE",
+      "energy_level": 37,
+      "distance_to_travel": 22.2,
+      "location": {
+        "lng": 13.415267360099534,
+        "lat": 52.522215378264455
+      }
+    },    {
+      "id": "eefd7cb2-500a-4634-86c1-8eaed7c90051",
+      "license_plate": "104ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.307598532649617,
+        "lat": 52.51279691881492
+      }
+    },    {
+      "id": "4edd4867-2939-4f2b-ae74-056303c2c434",
+      "license_plate": "339ERE",
+      "energy_level": 49,
+      "distance_to_travel": 29.4,
+      "location": {
+        "lng": 13.333421230940408,
+        "lat": 52.50744297824336
+      }
+    },    {
+      "id": "ed0742f3-42d9-4c9d-8c73-10088fa272fc",
+      "license_plate": "419ERE",
+      "energy_level": 79,
+      "distance_to_travel": 47.4,
+      "location": {
+        "lng": 13.44335269464798,
+        "lat": 52.473277994646885
+      }
+    },    {
+      "id": "a90a42f8-8a6b-4933-8c5c-555501190750",
+      "license_plate": "619ERE",
+      "energy_level": 87,
+      "distance_to_travel": 52.199999999999996,
+      "location": {
+        "lng": 13.385536641590658,
+        "lat": 52.52303824463401
+      }
+    },    {
+      "id": "f53c645d-0ee2-4131-a338-90f4b11b1ac1",
+      "license_plate": "447ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.31275504208301,
+        "lat": 52.500672112411316
+      }
+    },    {
+      "id": "4b1dfebe-e1c2-4121-80eb-a64063c901a2",
+      "license_plate": "784ERE",
+      "energy_level": 47,
+      "distance_to_travel": 28.2,
+      "location": {
+        "lng": 13.432232216158281,
+        "lat": 52.47936939063024
+      }
+    },    {
+      "id": "2fa6dc6e-8074-4fb3-bd64-f93c1fb07bd0",
+      "license_plate": "124ERE",
+      "energy_level": 79,
+      "distance_to_travel": 47.4,
+      "location": {
+        "lng": 13.412111830840248,
+        "lat": 52.49854937977084
+      }
+    },    {
+      "id": "ba14b0e2-dac4-494a-aa50-a02f6628d279",
+      "license_plate": "141ERE",
+      "energy_level": 26,
+      "distance_to_travel": 15.6,
+      "location": {
+        "lng": 13.397302250005023,
+        "lat": 52.54384100000067
+      }
+    },    {
+      "id": "a7015ead-f85f-44cb-baff-610442654f82",
+      "license_plate": "501ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.292947598746727,
+        "lat": 52.51551160804262
+      }
+    },    {
+      "id": "e9378077-1e49-45fe-94b0-7bf73c509abc",
+      "license_plate": "810ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.471056132804245,
+        "lat": 52.51445300530332
+      }
+    },    {
+      "id": "30666d8a-012c-4848-a814-30b6fa9fda12",
+      "license_plate": "331ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.457137124985698,
+        "lat": 52.529057375000754
+      }
+    },    {
+      "id": "4bc3981f-f902-4457-a842-4404f2742b10",
+      "license_plate": "474ERE",
+      "energy_level": 57,
+      "distance_to_travel": 34.199999999999996,
+      "location": {
+        "lng": 13.389579366940989,
+        "lat": 52.516976234508626
+      }
+    },    {
+      "id": "bcabab06-315e-48f7-bbe4-611ce923a3c9",
+      "license_plate": "334ERE",
+      "energy_level": 84,
+      "distance_to_travel": 50.4,
+      "location": {
+        "lng": 13.306850715609372,
+        "lat": 52.50566396123262
+      }
+    },    {
+      "id": "ba814588-b2cd-46e7-bf32-94a8a87ea1bf",
+      "license_plate": "495ERE",
+      "energy_level": 92,
+      "distance_to_travel": 55.199999999999996,
+      "location": {
+        "lng": 13.368527175518379,
+        "lat": 52.52585943388604
+      }
+    },    {
+      "id": "72011250-b6ec-408d-9f44-09c3ce235a1b",
+      "license_plate": "839ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.446751335636305,
+        "lat": 52.53531220085919
+      }
+    },    {
+      "id": "9c85f0d9-842c-4837-9624-bed418f74dbd",
+      "license_plate": "691ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.372456305564977,
+        "lat": 52.50746922298674
+      }
+    },    {
+      "id": "7b1e4907-6007-41e8-a656-c62803b9ee52",
+      "license_plate": "568ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.300379402738061,
+        "lat": 52.50877745488599
+      }
+    },    {
+      "id": "57a8571d-a610-4ff3-a74b-959c3af206a2",
+      "license_plate": "870ERE",
+      "energy_level": 41,
+      "distance_to_travel": 24.599999999999998,
+      "location": {
+        "lng": 13.483999727195606,
+        "lat": 52.49504961370634
+      }
+    },    {
+      "id": "7addf363-478d-4ea1-8f14-43551981ea81",
+      "license_plate": "194ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.336922300367261,
+        "lat": 52.51707252328882
+      }
+    },    {
+      "id": "8dec3c97-3a92-4564-bbfc-d6554f7b75ab",
+      "license_plate": "510ERE",
+      "energy_level": 65,
+      "distance_to_travel": 39.0,
+      "location": {
+        "lng": 13.328618833020233,
+        "lat": 52.49917810694932
+      }
+    },    {
+      "id": "704f3618-2d74-4ddc-8bb4-76008a5e2922",
+      "license_plate": "378ERE",
+      "energy_level": 60,
+      "distance_to_travel": 36.0,
+      "location": {
+        "lng": 13.30758192036241,
+        "lat": 52.499035651080156
+      }
+    },    {
+      "id": "69fe34d2-8df1-4c2e-9c13-baa8911088f3",
+      "license_plate": "507ERE",
+      "energy_level": 44,
+      "distance_to_travel": 26.4,
+      "location": {
+        "lng": 13.295001144862804,
+        "lat": 52.509817121744526
+      }
+    },    {
+      "id": "3e38efe3-914a-4e88-b05a-cfa2135462a8",
+      "license_plate": "829ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.423713828658348,
+        "lat": 52.486600640227245
+      }
+    },    {
+      "id": "f0b004dd-f68b-4a99-8828-7959a812fa00",
+      "license_plate": "438ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.316308567678298,
+        "lat": 52.489266366709046
+      }
+    },    {
+      "id": "eec03621-ef73-4f7f-ba4a-7626f93ae05a",
+      "license_plate": "360ERE",
+      "energy_level": 66,
+      "distance_to_travel": 39.6,
+      "location": {
+        "lng": 13.301167296659544,
+        "lat": 52.51207279001898
+      }
+    },    {
+      "id": "8ae250f6-5291-4f79-9ff1-c82d80e27cc1",
+      "license_plate": "720ERE",
+      "energy_level": 80,
+      "distance_to_travel": 48.0,
+      "location": {
+        "lng": 13.29833474072546,
+        "lat": 52.528199614805224
+      }
+    },    {
+      "id": "e7c9a339-90c7-4763-a890-1707fe5586b4",
+      "license_plate": "503ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.460958245690756,
+        "lat": 52.51702227764661
+      }
+    },    {
+      "id": "4ebe2e6c-5c89-4c00-959c-722a2dc1da07",
+      "license_plate": "852ERE",
+      "energy_level": 42,
+      "distance_to_travel": 25.2,
+      "location": {
+        "lng": 13.339980047691629,
+        "lat": 52.50138220619912
+      }
+    },    {
+      "id": "a07aa9d3-0f26-44a4-8f41-15f3119ce998",
+      "license_plate": "811ERE",
+      "energy_level": 71,
+      "distance_to_travel": 42.6,
+      "location": {
+        "lng": 13.441555447181877,
+        "lat": 52.46995344180025
+      }
+    },    {
+      "id": "5cd77eda-6fed-4566-9456-520962d63891",
+      "license_plate": "338ERE",
+      "energy_level": 59,
+      "distance_to_travel": 35.4,
+      "location": {
+        "lng": 13.353493619809331,
+        "lat": 52.49281779168219
+      }
+    },    {
+      "id": "160755a1-ee7f-4808-89f9-fc308f848ba2",
+      "license_plate": "898ERE",
+      "energy_level": 81,
+      "distance_to_travel": 48.6,
+      "location": {
+        "lng": 13.336066675377849,
+        "lat": 52.50532669591732
+      }
+    },    {
+      "id": "7e1f7996-7868-4c72-a768-4ff518e5bce0",
+      "license_plate": "239ERE",
+      "energy_level": 40,
+      "distance_to_travel": 24.0,
+      "location": {
+        "lng": 13.421058960468505,
+        "lat": 52.50986833320332
+      }
+    },    {
+      "id": "1d2c9db9-a9eb-4588-b258-5de25bfc9efb",
+      "license_plate": "819ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.42195578496933,
+        "lat": 52.48719577575657
+      }
+    },    {
+      "id": "e783bd63-e6a4-4768-a0bc-5ac5923420ef",
+      "license_plate": "712ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.326926152688587,
+        "lat": 52.486608574763416
+      }
+    },    {
+      "id": "b2cc11b7-d3a8-4e96-81b8-c38443f2cb72",
+      "license_plate": "181ERE",
+      "energy_level": 43,
+      "distance_to_travel": 25.8,
+      "location": {
+        "lng": 13.29609211641321,
+        "lat": 52.50894307348956
+      }
+    },    {
+      "id": "31d353e3-3b4c-4d69-b480-846c256c8988",
+      "license_plate": "875ERE",
+      "energy_level": 58,
+      "distance_to_travel": 34.8,
+      "location": {
+        "lng": 13.324655644431035,
+        "lat": 52.5033277609774
+      }
+    },    {
+      "id": "665ddd44-1407-4543-836a-9508aaefdd4f",
+      "license_plate": "485ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.286679250028062,
+        "lat": 52.519013486057815
+      }
+    },    {
+      "id": "90e88bc8-f4fb-48b9-b8f6-d831063dbeda",
+      "license_plate": "793ERE",
+      "energy_level": 84,
+      "distance_to_travel": 50.4,
+      "location": {
+        "lng": 13.375216299846944,
+        "lat": 52.48058662757061
+      }
+    },    {
+      "id": "273d1c70-9653-47ea-b530-ef680c801a8d",
+      "license_plate": "345ERE",
+      "energy_level": 44,
+      "distance_to_travel": 26.4,
+      "location": {
+        "lng": 13.457122325463489,
+        "lat": 52.52891144993777
+      }
+    },    {
+      "id": "a2e9a15c-18c1-47c9-93e6-d67ad594a746",
+      "license_plate": "713ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.339024108224303,
+        "lat": 52.50316136996764
+      }
+    },    {
+      "id": "302bcb59-d405-4122-ad16-bcfe3f5233ff",
+      "license_plate": "722ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.368600195763422,
+        "lat": 52.52577946876159
+      }
+    },    {
+      "id": "6014146c-a91c-482a-a2d1-74689717a67a",
+      "license_plate": "347ERE",
+      "energy_level": 59,
+      "distance_to_travel": 35.4,
+      "location": {
+        "lng": 13.407984916681276,
+        "lat": 52.52689039583604
+      }
+    },    {
+      "id": "de539137-c695-4c96-9090-e788bb31059e",
+      "license_plate": "125ERE",
+      "energy_level": 56,
+      "distance_to_travel": 33.6,
+      "location": {
+        "lng": 13.307361931592324,
+        "lat": 52.50020005933395
+      }
+    },    {
+      "id": "eea488fb-6032-46e4-8c0e-0671add54672",
+      "license_plate": "255ERE",
+      "energy_level": 93,
+      "distance_to_travel": 55.8,
+      "location": {
+        "lng": 13.397536750004255,
+        "lat": 52.493086500000096
+      }
+    },    {
+      "id": "43f42ac3-a958-4823-bdca-88fa11903c54",
+      "license_plate": "421ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.431834816866155,
+        "lat": 52.49517061531565
+      }
+    },    {
+      "id": "0f53c2b3-968c-4c78-aed2-b8d50421475c",
+      "license_plate": "675ERE",
+      "energy_level": 61,
+      "distance_to_travel": 36.6,
+      "location": {
+        "lng": 13.384885128944319,
+        "lat": 52.497266045626375
+      }
+    },    {
+      "id": "1055e1e0-a093-4aa6-98d4-97233f3f12e5",
+      "license_plate": "626ERE",
+      "energy_level": 87,
+      "distance_to_travel": 52.199999999999996,
+      "location": {
+        "lng": 13.417027624991658,
+        "lat": 52.498763125001744
+      }
+    },    {
+      "id": "2a1788f4-8922-402d-bd04-3df87b379075",
+      "license_plate": "289ERE",
+      "energy_level": 87,
+      "distance_to_travel": 52.199999999999996,
+      "location": {
+        "lng": 13.307485894259031,
+        "lat": 52.49920271354799
+      }
+    },    {
+      "id": "41082452-61c9-4af8-b778-e2aaa7cbf863",
+      "license_plate": "234ERE",
+      "energy_level": 73,
+      "distance_to_travel": 43.8,
+      "location": {
+        "lng": 13.404532197658542,
+        "lat": 52.52766646406603
+      }
+    },    {
+      "id": "c4ea2891-a857-49de-8270-42766b4e617d",
+      "license_plate": "519ERE",
+      "energy_level": 67,
+      "distance_to_travel": 40.199999999999996,
+      "location": {
+        "lng": 13.409749416575607,
+        "lat": 52.50393114585023
+      }
+    },    {
+      "id": "2aeaae39-5ce0-4a3b-8c2a-16aadcd6456b",
+      "license_plate": "743ERE",
+      "energy_level": 49,
+      "distance_to_travel": 29.4,
+      "location": {
+        "lng": 13.435828674748416,
+        "lat": 52.5091910786893
+      }
+    },    {
+      "id": "eb084aa8-1177-4150-a9ca-3757ad206bad",
+      "license_plate": "382ERE",
+      "energy_level": 50,
+      "distance_to_travel": 30.0,
+      "location": {
+        "lng": 13.488714361967183,
+        "lat": 52.49483534636122
+      }
+    },    {
+      "id": "4e3762df-decd-4e1c-b1c9-4c80d3c5b011",
+      "license_plate": "648ERE",
+      "energy_level": 61,
+      "distance_to_travel": 36.6,
+      "location": {
+        "lng": 13.350633693626671,
+        "lat": 52.49657357119487
+      }
+    },    {
+      "id": "0a5dcaf5-2160-4367-8550-701c5db7759f",
+      "license_plate": "117ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.47660903931709,
+        "lat": 52.48767111866134
+      }
+    },    {
+      "id": "0dd56dfb-55ab-4695-8702-eee5490813fe",
+      "license_plate": "772ERE",
+      "energy_level": 87,
+      "distance_to_travel": 52.199999999999996,
+      "location": {
+        "lng": 13.471448287316804,
+        "lat": 52.50745105779534
+      }
+    },    {
+      "id": "8ab117dd-632b-4930-8952-1d6b7b6275c1",
+      "license_plate": "175ERE",
+      "energy_level": 51,
+      "distance_to_travel": 30.599999999999998,
+      "location": {
+        "lng": 13.32898805480643,
+        "lat": 52.48519403268797
+      }
+    },    {
+      "id": "83c9711e-13c9-455d-b175-3e97f6576b8f",
+      "license_plate": "768ERE",
+      "energy_level": 53,
+      "distance_to_travel": 31.799999999999997,
+      "location": {
+        "lng": 13.326547944009878,
+        "lat": 52.53002152533896
+      }
+    },    {
+      "id": "5cfd64a8-bbce-4250-a863-4ca414bec030",
+      "license_plate": "297ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.453064499999615,
+        "lat": 52.49461262500229
+      }
+    },    {
+      "id": "b45f5e4e-4bf2-4871-bd92-ca99d204c13d",
+      "license_plate": "271ERE",
+      "energy_level": 54,
+      "distance_to_travel": 32.4,
+      "location": {
+        "lng": 13.406341030923034,
+        "lat": 52.482729111112285
+      }
+    },    {
+      "id": "518f81e0-ba3d-462b-8cae-654d81d372e6",
+      "license_plate": "217ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.43244630807147,
+        "lat": 52.51502383797806
+      }
+    },    {
+      "id": "853afba8-9d0a-4c5a-96a4-2706c69435ef",
+      "license_plate": "359ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.312714078917388,
+        "lat": 52.48064706185891
+      }
+    },    {
+      "id": "892daa8c-73df-4bb7-8772-cd31cf766e38",
+      "license_plate": "868ERE",
+      "energy_level": 100,
+      "distance_to_travel": 60.0,
+      "location": {
+        "lng": 13.385680198100703,
+        "lat": 52.51542806831678
+      }
+    },    {
+      "id": "73cfc277-03cd-45a2-a943-ba46a5da7bbe",
+      "license_plate": "193ERE",
+      "energy_level": 83,
+      "distance_to_travel": 49.8,
+      "location": {
+        "lng": 13.452292341645622,
+        "lat": 52.532319466588845
+      }
+    },    {
+      "id": "62a3d29a-149b-46a8-8119-f61fd3160024",
+      "license_plate": "279ERE",
+      "energy_level": 53,
+      "distance_to_travel": 31.799999999999997,
+      "location": {
+        "lng": 13.46886402291883,
+        "lat": 52.50471512814892
+      }
+    },    {
+      "id": "a8dc1e56-baae-4c9c-b906-0a077431754e",
+      "license_plate": "509ERE",
+      "energy_level": 94,
+      "distance_to_travel": 56.4,
+      "location": {
+        "lng": 13.43521727011962,
+        "lat": 52.4684912140762
+      }
+    },    {
+      "id": "b2dd5c43-3614-440e-a510-14093e518295",
+      "license_plate": "226ERE",
+      "energy_level": 35,
+      "distance_to_travel": 21.0,
+      "location": {
+        "lng": 13.419285694970073,
+        "lat": 52.547661940908704
+      }
+    },    {
+      "id": "3f30f294-402e-4126-8926-c5a851ef6434",
+      "license_plate": "469ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.38674470965531,
+        "lat": 52.52222529335713
+      }
+    },    {
+      "id": "870397a7-fe22-4f97-8e96-e3897e4df451",
+      "license_plate": "885ERE",
+      "energy_level": 49,
+      "distance_to_travel": 29.4,
+      "location": {
+        "lng": 13.438192199543757,
+        "lat": 52.54053752775957
+      }
+    },    {
+      "id": "a35d9f24-4589-47de-8375-88665f36c55e",
+      "license_plate": "407ERE",
+      "energy_level": 72,
+      "distance_to_travel": 43.199999999999996,
+      "location": {
+        "lng": 13.41343163892261,
+        "lat": 52.5109114923121
+      }
+    },    {
+      "id": "2c9ad748-b785-4f3c-9957-c1a54630401c",
+      "license_plate": "317ERE",
+      "energy_level": 65,
+      "distance_to_travel": 39.0,
+      "location": {
+        "lng": 13.3375,
+        "lat": 52.528435
+      }
+    },    {
+      "id": "a3cf0a23-969a-48f3-b584-4c4e0fff6426",
+      "license_plate": "714ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.306756434181969,
+        "lat": 52.5078999584264
+      }
+    },    {
+      "id": "b92050b0-ad68-4c61-ab06-d05998dcd3c0",
+      "license_plate": "132ERE",
+      "energy_level": 73,
+      "distance_to_travel": 43.8,
+      "location": {
+        "lng": 13.397089499992983,
+        "lat": 52.51449412500141
+      }
+    },    {
+      "id": "795579a9-e651-4156-b049-23f407634372",
+      "license_plate": "195ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.304627607120997,
+        "lat": 52.51922800900341
+      }
+    },    {
+      "id": "5fd19d16-cdc3-46a6-aabc-4a08f5e61a85",
+      "license_plate": "545ERE",
+      "energy_level": 69,
+      "distance_to_travel": 41.4,
+      "location": {
+        "lng": 13.484210962182454,
+        "lat": 52.496962887085694
+      }
+    },    {
+      "id": "753047bd-fd62-4b47-aa47-04f9980a5fea",
+      "license_plate": "399ERE",
+      "energy_level": 31,
+      "distance_to_travel": 18.599999999999998,
+      "location": {
+        "lng": 13.452093182927312,
+        "lat": 52.47127051711896
+      }
+    },    {
+      "id": "ca45aea3-4d29-48d3-ad41-b905e12fbce8",
+      "license_plate": "685ERE",
+      "energy_level": 68,
+      "distance_to_travel": 40.8,
+      "location": {
+        "lng": 13.378237889071816,
+        "lat": 52.47821594795729
+      }
+    },    {
+      "id": "e2ed9ece-4fb6-4cd7-a91e-3792542ac440",
+      "license_plate": "285ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.320733603986502,
+        "lat": 52.52064692959189
+      }
+    },    {
+      "id": "4636e8f3-e0c8-46ea-b1c5-fee827313949",
+      "license_plate": "418ERE",
+      "energy_level": 91,
+      "distance_to_travel": 54.6,
+      "location": {
+        "lng": 13.422488748895532,
+        "lat": 52.538672881920014
+      }
+    },    {
+      "id": "47ffef0e-256a-416d-92d1-65db215fb3d6",
+      "license_plate": "833ERE",
+      "energy_level": 39,
+      "distance_to_travel": 23.4,
+      "location": {
+        "lng": 13.393629249974486,
+        "lat": 52.512515625021656
+      }
+    },    {
+      "id": "04976adb-daed-4c1b-8e7c-0897825c7325",
+      "license_plate": "269ERE",
+      "energy_level": 73,
+      "distance_to_travel": 43.8,
+      "location": {
+        "lng": 13.429812927573996,
+        "lat": 52.475895081723856
+      }
+    },    {
+      "id": "0ae61676-311f-4666-8b83-cc694d0676e8",
+      "license_plate": "256ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.32455020469118,
+        "lat": 52.50332007973657
+      }
+    },    {
+      "id": "1cbdbbd0-054e-41a3-b1ed-267ef4d5d14c",
+      "license_plate": "845ERE",
+      "energy_level": 91,
+      "distance_to_travel": 54.6,
+      "location": {
+        "lng": 13.423664635846373,
+        "lat": 52.4866468299799
+      }
+    },    {
+      "id": "e12cb0f7-e98e-4c7a-b112-e3b160c495e6",
+      "license_plate": "306ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.317341117308846,
+        "lat": 52.50620179943237
+      }
+    },    {
+      "id": "7a24a387-0f6e-4f30-bdf3-7e379ddbb360",
+      "license_plate": "505ERE",
+      "energy_level": 50,
+      "distance_to_travel": 30.0,
+      "location": {
+        "lng": 13.307728456643419,
+        "lat": 52.49901474502881
+      }
+    },    {
+      "id": "4124c476-b43a-4738-8208-816db9ccc4dd",
+      "license_plate": "220ERE",
+      "energy_level": 44,
+      "distance_to_travel": 26.4,
+      "location": {
+        "lng": 13.332084973423852,
+        "lat": 52.53264322032549
+      }
+    },    {
+      "id": "25115b0c-5ae7-4288-b9c9-efc97a939692",
+      "license_plate": "872ERE",
+      "energy_level": 84,
+      "distance_to_travel": 50.4,
+      "location": {
+        "lng": 13.352064847499202,
+        "lat": 52.524093229319675
+      }
+    },    {
+      "id": "1e4c105b-6ad9-41e5-bb6c-dbb321fc9ebc",
+      "license_plate": "403ERE",
+      "energy_level": 79,
+      "distance_to_travel": 47.4,
+      "location": {
+        "lng": 13.422263730629627,
+        "lat": 52.486901611886765
+      }
+    },    {
+      "id": "600d6cf9-0d88-489f-aa5d-cb3b41b1fdbc",
+      "license_plate": "758ERE",
+      "energy_level": 54,
+      "distance_to_travel": 32.4,
+      "location": {
+        "lng": 13.329582916754509,
+        "lat": 52.5035200625288
+      }
+    },    {
+      "id": "cd11b7dc-59a3-43d6-9865-d56b9a5b1752",
+      "license_plate": "156ERE",
+      "energy_level": 43,
+      "distance_to_travel": 25.8,
+      "location": {
+        "lng": 13.327222770719832,
+        "lat": 52.52050370836206
+      }
+    },    {
+      "id": "6aa678c1-9a17-41f1-accf-e467dd3026c3",
+      "license_plate": "809ERE",
+      "energy_level": 40,
+      "distance_to_travel": 24.0,
+      "location": {
+        "lng": 13.294757083320096,
+        "lat": 52.51300922916948
+      }
+    },    {
+      "id": "46c79176-75e4-4de9-9b77-25fe8b4d726d",
+      "license_plate": "689ERE",
+      "energy_level": 78,
+      "distance_to_travel": 46.8,
+      "location": {
+        "lng": 13.385768750432836,
+        "lat": 52.478280109027544
+      }
+    },    {
+      "id": "528a5a00-76b6-4aeb-87ca-8a74dacc10d9",
+      "license_plate": "690ERE",
+      "energy_level": 52,
+      "distance_to_travel": 31.2,
+      "location": {
+        "lng": 13.44266244223901,
+        "lat": 52.48202425872429
+      }
+    },    {
+      "id": "462a628b-f90c-4be9-a2ca-f435d84e0913",
+      "license_plate": "304ERE",
+      "energy_level": 74,
+      "distance_to_travel": 44.4,
+      "location": {
+        "lng": 13.311826067942581,
+        "lat": 52.50046892869852
+      }
+    },    {
+      "id": "090ca701-fed7-432b-ac5d-f484ecde6b4f",
+      "license_plate": "227ERE",
+      "energy_level": 41,
+      "distance_to_travel": 24.599999999999998,
+      "location": {
+        "lng": 13.401350511087804,
+        "lat": 52.50076262609649
+      }
+    },    {
+      "id": "179a627d-e941-4eeb-84b5-b646aea29f61",
+      "license_plate": "736ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.307872916989915,
+        "lat": 52.49910994866955
+      }
+    },    {
+      "id": "0496acf6-cc6e-4c8e-bb0d-3aff4f752e70",
+      "license_plate": "893ERE",
+      "energy_level": 69,
+      "distance_to_travel": 41.4,
+      "location": {
+        "lng": 13.39118755315918,
+        "lat": 52.496823245640705
+      }
+    },    {
+      "id": "2da9059d-6bc9-4e9b-a4d7-29b400c9dfec",
+      "license_plate": "634ERE",
+      "energy_level": 72,
+      "distance_to_travel": 43.199999999999996,
+      "location": {
+        "lng": 13.451411687135089,
+        "lat": 52.50800590634338
+      }
+    },    {
+      "id": "f2465c34-6266-4e1a-bab9-35863b3dc596",
+      "license_plate": "879ERE",
+      "energy_level": 92,
+      "distance_to_travel": 55.199999999999996,
+      "location": {
+        "lng": 13.476364133228211,
+        "lat": 52.50070535603565
+      }
+    },    {
+      "id": "4132dcde-b4ca-46f0-be9f-ff969eed48f4",
+      "license_plate": "483ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.394238416671634,
+        "lat": 52.541133000002624
+      }
+    },    {
+      "id": "fa08c8da-59c2-416b-b8b5-0d8be78bfb8a",
+      "license_plate": "710ERE",
+      "energy_level": 79,
+      "distance_to_travel": 47.4,
+      "location": {
+        "lng": 13.367482732219834,
+        "lat": 52.53106569637111
+      }
+    },    {
+      "id": "1d88dd8a-b19b-403b-b2f2-cf7f549fe869",
+      "license_plate": "709ERE",
+      "energy_level": 59,
+      "distance_to_travel": 35.4,
+      "location": {
+        "lng": 13.455996370203101,
+        "lat": 52.51684820681384
+      }
+    },    {
+      "id": "ed52d2ad-65ab-4d58-9088-e91d67f6f5d8",
+      "license_plate": "138ERE",
+      "energy_level": 40,
+      "distance_to_travel": 24.0,
+      "location": {
+        "lng": 13.421156932068225,
+        "lat": 52.539545941273495
+      }
+    },    {
+      "id": "623f5a97-02cd-499e-8c02-7097aa405519",
+      "license_plate": "287ERE",
+      "energy_level": 36,
+      "distance_to_travel": 21.599999999999998,
+      "location": {
+        "lng": 13.36738128538428,
+        "lat": 52.495075113011346
+      }
+    },    {
+      "id": "ea709f97-20df-4ae0-bfa6-0ed225c3fcfb",
+      "license_plate": "511ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.43343761111482,
+        "lat": 52.494593492436245
+      }
+    },    {
+      "id": "1d82df2a-a2ac-4b04-b19f-efc509ff27eb",
+      "license_plate": "480ERE",
+      "energy_level": 67,
+      "distance_to_travel": 40.199999999999996,
+      "location": {
+        "lng": 13.311366956536006,
+        "lat": 52.49391916831437
+      }
+    },    {
+      "id": "df1d43d7-99b4-4996-baff-dbac335cb8aa",
+      "license_plate": "620ERE",
+      "energy_level": 48,
+      "distance_to_travel": 28.799999999999997,
+      "location": {
+        "lng": 13.316923215704922,
+        "lat": 52.501662835439326
+      }
+    },    {
+      "id": "3e10f8de-dc34-40cc-8acb-e0ec6e349576",
+      "license_plate": "631ERE",
+      "energy_level": 39,
+      "distance_to_travel": 23.4,
+      "location": {
+        "lng": 13.374786973760777,
+        "lat": 52.5559644569518
+      }
+    },    {
+      "id": "35f8886d-04a0-4ce8-9f20-aa5ac64d6832",
+      "license_plate": "453ERE",
+      "energy_level": 63,
+      "distance_to_travel": 37.8,
+      "location": {
+        "lng": 13.376585602050453,
+        "lat": 52.506226823710996
+      }
+    },    {
+      "id": "21318775-701e-471e-9704-1cd0e6e948e3",
+      "license_plate": "333ERE",
+      "energy_level": 91,
+      "distance_to_travel": 54.6,
+      "location": {
+        "lng": 13.322340434907828,
+        "lat": 52.504629172719994
+      }
+    },    {
+      "id": "5106029c-460a-477d-b6a9-0150c70904cb",
+      "license_plate": "144ERE",
+      "energy_level": 67,
+      "distance_to_travel": 40.199999999999996,
+      "location": {
+        "lng": 13.408041156874818,
+        "lat": 52.48230796875313
+      }
+    },    {
+      "id": "57d96670-245f-4a4c-90e0-8745e5a31181",
+      "license_plate": "406ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.410804453647755,
+        "lat": 52.5033614971594
+      }
+    },    {
+      "id": "a45d3d67-3259-4c15-9613-278c68d44bee",
+      "license_plate": "889ERE",
+      "energy_level": 69,
+      "distance_to_travel": 41.4,
+      "location": {
+        "lng": 13.406438423937992,
+        "lat": 52.483120040172786
+      }
+    },    {
+      "id": "1a676b8b-285a-4f6a-b804-906e4060f855",
+      "license_plate": "380ERE",
+      "energy_level": 54,
+      "distance_to_travel": 32.4,
+      "location": {
+        "lng": 13.452394930030676,
+        "lat": 52.47469693976502
+      }
+    },    {
+      "id": "bb1fc4f7-1522-4947-a796-45f350d7825b",
+      "license_plate": "223ERE",
+      "energy_level": 69,
+      "distance_to_travel": 41.4,
+      "location": {
+        "lng": 13.384248177760684,
+        "lat": 52.479040100465156
+      }
+    },    {
+      "id": "b1237086-bbaf-4f4d-b88b-d8d38e400c79",
+      "license_plate": "299ERE",
+      "energy_level": 58,
+      "distance_to_travel": 34.8,
+      "location": {
+        "lng": 13.30476012225175,
+        "lat": 52.51398207459089
+      }
+    },    {
+      "id": "f1b456d1-c39e-48fe-b497-4118ddeaf23f",
+      "license_plate": "413ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.319924181307977,
+        "lat": 52.486765407130605
+      }
+    },    {
+      "id": "c717af58-ae1a-4f4a-95cb-e498ed34d58f",
+      "license_plate": "683ERE",
+      "energy_level": 93,
+      "distance_to_travel": 55.8,
+      "location": {
+        "lng": 13.369006386260535,
+        "lat": 52.52662293273379
+      }
+    },    {
+      "id": "fbe4a999-71bd-4908-8017-3bff598d2314",
+      "license_plate": "105ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.446787307963735,
+        "lat": 52.52079117652526
+      }
+    },    {
+      "id": "dce7262d-b60a-4040-9c36-c6de82c787ad",
+      "license_plate": "336ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.428881446148736,
+        "lat": 52.520311787771
+      }
+    },    {
+      "id": "b4498ec4-06e7-4921-a859-f2131eef4319",
+      "license_plate": "270ERE",
+      "energy_level": 50,
+      "distance_to_travel": 30.0,
+      "location": {
+        "lng": 13.420173999995702,
+        "lat": 52.49167850000082
+      }
+    },    {
+      "id": "e1e9b61c-6420-4b89-a3c0-1948d6fd2ba6",
+      "license_plate": "150ERE",
+      "energy_level": 42,
+      "distance_to_travel": 25.2,
+      "location": {
+        "lng": 13.410684253670386,
+        "lat": 52.51306861645078
+      }
+    },    {
+      "id": "3e2947f5-0f81-4572-9eb1-b43659b4a7d2",
+      "license_plate": "288ERE",
+      "energy_level": 60,
+      "distance_to_travel": 36.0,
+      "location": {
+        "lng": 13.30233116915391,
+        "lat": 52.5065333398335
+      }
+    },    {
+      "id": "a9c4c5c5-df2f-4fbd-8aaa-4ccf2e1113a6",
+      "license_plate": "763ERE",
+      "energy_level": 46,
+      "distance_to_travel": 27.599999999999998,
+      "location": {
+        "lng": 13.43171994201893,
+        "lat": 52.547472946325016
+      }
+    },    {
+      "id": "dde7d3ea-7918-41d4-a603-de935920957b",
+      "license_plate": "778ERE",
+      "energy_level": 88,
+      "distance_to_travel": 52.8,
+      "location": {
+        "lng": 13.377261071023467,
+        "lat": 52.55613086204709
+      }
+    },    {
+      "id": "0ac87ade-52bf-4a24-8948-9ee24be7d9e4",
+      "license_plate": "539ERE",
+      "energy_level": 75,
+      "distance_to_travel": 45.0,
+      "location": {
+        "lng": 13.395637141377183,
+        "lat": 52.54178946570579
+      }
+    },    {
+      "id": "e118f3cf-f041-4bee-8e6e-916975150b08",
+      "license_plate": "876ERE",
+      "energy_level": 56,
+      "distance_to_travel": 33.6,
+      "location": {
+        "lng": 13.385660010965289,
+        "lat": 52.531877616488906
+      }
+    },    {
+      "id": "f2d92725-9ef0-4786-ac75-d512f0be9747",
+      "license_plate": "106ERE",
+      "energy_level": 94,
+      "distance_to_travel": 56.4,
+      "location": {
+        "lng": 13.303716568227529,
+        "lat": 52.50090550794524
+      }
+    },    {
+      "id": "7e0a753c-a411-411b-b86b-2ebef205f34b",
+      "license_plate": "147ERE",
+      "energy_level": 68,
+      "distance_to_travel": 40.8,
+      "location": {
+        "lng": 13.371850272461586,
+        "lat": 52.53919057426588
+      }
+    },    {
+      "id": "8faa91b1-53df-4728-bec6-b99dd6ec9353",
+      "license_plate": "201ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.381432499998805,
+        "lat": 52.51490200000002
+      }
+    },    {
+      "id": "528d9570-bb29-4bac-93e7-404a78dd88d9",
+      "license_plate": "643ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.327618704963204,
+        "lat": 52.503071914811635
+      }
+    },    {
+      "id": "215b7911-3cb0-4728-af53-f7054834f17a",
+      "license_plate": "766ERF",
+      "energy_level": 55,
+      "distance_to_travel": 33.0,
+      "location": {
+        "lng": 13.438960018668517,
+        "lat": 52.541499298709255
+      }
+    },    {
+      "id": "74019eca-fc05-4881-8171-7b9c3b5fbdba",
+      "license_plate": "832ERF",
+      "energy_level": 82,
+      "distance_to_travel": 49.199999999999996,
+      "location": {
+        "lng": 13.395000874996425,
+        "lat": 52.51932737500008
+      }
+    },    {
+      "id": "bb3804fc-fa62-43ed-bf77-932a46ce80b6",
+      "license_plate": "695ERE",
+      "energy_level": 47,
+      "distance_to_travel": 28.2,
+      "location": {
+        "lng": 13.464943092519038,
+        "lat": 52.51645656219212
+      }
+    },    {
+      "id": "16535300-e8c1-4b08-8016-bf6418c15d7c",
+      "license_plate": "450ERE",
+      "energy_level": 64,
+      "distance_to_travel": 38.4,
+      "location": {
+        "lng": 13.328587312573694,
+        "lat": 52.506063233639786
+      }
+    },    {
+      "id": "3587f363-f1c2-4ad2-9fe7-71a6cf4562fa",
+      "license_plate": "121ERE",
+      "energy_level": 56,
+      "distance_to_travel": 33.6,
+      "location": {
+        "lng": 13.345638115744137,
+        "lat": 52.49321945045435
+      }
+    },    {
+      "id": "426c27a3-b6a6-4ed1-95dc-687b3925de27",
+      "license_plate": "550ERE",
+      "energy_level": 32,
+      "distance_to_travel": 19.2,
+      "location": {
+        "lng": 13.436699375002132,
+        "lat": 52.49776175000011
+      }
+    },    {
+      "id": "64345c16-3416-4337-a390-0d9def99891e",
+      "license_plate": "169ERE",
+      "energy_level": 66,
+      "distance_to_travel": 39.6,
+      "location": {
+        "lng": 13.430195831785735,
+        "lat": 52.49825329291236
+      }
+    },    {
+      "id": "8f08808a-cfda-493d-87fa-f6ff8b6c7318",
+      "license_plate": "376ERE",
+      "energy_level": 68,
+      "distance_to_travel": 40.8,
+      "location": {
+        "lng": 13.439532249996576,
+        "lat": 52.50234875000424
+      }
+    },    {
+      "id": "46adf4fa-ca61-4a97-9d39-f881c0e4c1b3",
+      "license_plate": "610ERE",
+      "energy_level": 77,
+      "distance_to_travel": 46.199999999999996,
+      "location": {
+        "lng": 13.468949243953906,
+        "lat": 52.51291142271643
+      }
+    },    {
+      "id": "81808c20-9cb2-4ca3-a79d-4ff8e8b2ea62",
+      "license_plate": "624ERE",
+      "energy_level": 43,
+      "distance_to_travel": 25.8,
+      "location": {
+        "lng": 13.425692004523611,
+        "lat": 52.52631843851304
+      }
+    },    {
+      "id": "e18fa008-d78e-4dc3-8536-054c7896763c",
+      "license_plate": "861ERE",
+      "energy_level": 61,
+      "distance_to_travel": 36.6,
+      "location": {
+        "lng": 13.433993024620175,
+        "lat": 52.54375009207187
+      }
+    },    {
+      "id": "67ac2a08-dbfd-4d8e-b0bb-0cec2f64bbba",
+      "license_plate": "420ERE",
+      "energy_level": 82,
+      "distance_to_travel": 49.199999999999996,
+      "location": {
+        "lng": 13.389531124927155,
+        "lat": 52.51712100001992
+      }
+    },    {
+      "id": "351a3cbc-1eba-4d61-bd39-739584abf08c",
+      "license_plate": "630ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.307975501799675,
+        "lat": 52.498976074014216
+      }
+    },    {
+      "id": "ba6025fc-32d9-46dd-92b9-376e067e34d8",
+      "license_plate": "775ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.432013692900844,
+        "lat": 52.46658877336215
+      }
+    },    {
+      "id": "43ff1255-eb43-496f-9361-ab1e459c03e2",
+      "license_plate": "116ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.455258312026253,
+        "lat": 52.497170438669066
+      }
+    },    {
+      "id": "5aa4393c-4a1d-42c4-8bed-5ef6c0388ec1",
+      "license_plate": "386ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.413457746556341,
+        "lat": 52.497953231653746
+      }
+    },    {
+      "id": "0f34a4d5-0f0c-4388-a71a-2230a25f929c",
+      "license_plate": "296ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.387701166155438,
+        "lat": 52.51989263365618
+      }
+    },    {
+      "id": "a8439f7f-fe65-4b24-ba72-a0860f7b108b",
+      "license_plate": "749ERE",
+      "energy_level": 46,
+      "distance_to_travel": 27.599999999999998,
+      "location": {
+        "lng": 13.368509500000277,
+        "lat": 52.52582950000006
+      }
+    },    {
+      "id": "e4519bf9-de8b-4a42-b702-2469603c1292",
+      "license_plate": "263ERE",
+      "energy_level": 59,
+      "distance_to_travel": 35.4,
+      "location": {
+        "lng": 13.448436510966694,
+        "lat": 52.542744337864825
+      }
+    },    {
+      "id": "4f6621b0-f7ab-4e4d-ad49-259e6bd124f5",
+      "license_plate": "600ERE",
+      "energy_level": 51,
+      "distance_to_travel": 30.599999999999998,
+      "location": {
+        "lng": 13.401695499999395,
+        "lat": 52.49838325000003
+      }
+    },    {
+      "id": "7d5c2b44-0ac7-4ce2-a864-e57cc1dc9345",
+      "license_plate": "457ERE",
+      "energy_level": 43,
+      "distance_to_travel": 25.8,
+      "location": {
+        "lng": 13.450016437430877,
+        "lat": 52.52216137502342
+      }
+    },    {
+      "id": "113df8b0-0299-4369-97c7-618f593498c2",
+      "license_plate": "679ERE",
+      "energy_level": 87,
+      "distance_to_travel": 52.199999999999996,
+      "location": {
+        "lng": 13.445794485141299,
+        "lat": 52.53001940391096
+      }
+    },    {
+      "id": "2f9fcce4-8702-457c-bfce-b177af6619aa",
+      "license_plate": "146ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.419137826344665,
+        "lat": 52.54045263046253
+      }
+    },    {
+      "id": "c6207455-ed3c-476e-b9cc-ef068aa09424",
+      "license_plate": "502ERE",
+      "energy_level": 68,
+      "distance_to_travel": 40.8,
+      "location": {
+        "lng": 13.32302956244144,
+        "lat": 52.49121822917925
+      }
+    },    {
+      "id": "095d8291-209d-4d77-9de8-93728921fbdd",
+      "license_plate": "371ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.450015579453693,
+        "lat": 52.49645366921125
+      }
+    },    {
+      "id": "ba2be230-9539-4439-b069-c405311aab5f",
+      "license_plate": "395ERE",
+      "energy_level": 55,
+      "distance_to_travel": 33.0,
+      "location": {
+        "lng": 13.445784644488771,
+        "lat": 52.49224977970384
+      }
+    },    {
+      "id": "cb1c6534-9381-4891-8d88-8be0dc23bf77",
+      "license_plate": "849ERE",
+      "energy_level": 75,
+      "distance_to_travel": 45.0,
+      "location": {
+        "lng": 13.299770877439666,
+        "lat": 52.51974759923044
+      }
+    },    {
+      "id": "6391f767-4ba8-4223-99bd-c133d74b1985",
+      "license_plate": "655ERE",
+      "energy_level": 66,
+      "distance_to_travel": 39.6,
+      "location": {
+        "lng": 13.428714527450948,
+        "lat": 52.54709540140667
+      }
+    },    {
+      "id": "ffe72af3-eb74-4ae7-8ed0-3f426aaddddd",
+      "license_plate": "290ERE",
+      "energy_level": 66,
+      "distance_to_travel": 39.6,
+      "location": {
+        "lng": 13.43149846079338,
+        "lat": 52.46998280346465
+      }
+    },    {
+      "id": "ccafaf97-68eb-4662-98d3-3048d5ca7d22",
+      "license_plate": "692ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.326126426366494,
+        "lat": 52.53256012002308
+      }
+    },    {
+      "id": "36dcf864-d168-4cdc-80f5-02e93544c38d",
+      "license_plate": "716ERE",
+      "energy_level": 93,
+      "distance_to_travel": 55.8,
+      "location": {
+        "lng": 13.350340859141244,
+        "lat": 52.48128905928853
+      }
+    },    {
+      "id": "1e518d87-39c7-4e52-b0cd-1a9a57d4ef07",
+      "license_plate": "688ERE",
+      "energy_level": 65,
+      "distance_to_travel": 39.0,
+      "location": {
+        "lng": 13.453470650084284,
+        "lat": 52.47157459849337
+      }
+    },    {
+      "id": "2c07a75f-59ba-48c5-92da-a4b460525fab",
+      "license_plate": "769ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.38530791663092,
+        "lat": 52.52096983335454
+      }
+    },    {
+      "id": "ed2ac14d-454b-406e-af40-c4da7c2bddfa",
+      "license_plate": "455ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.370053640666756,
+        "lat": 52.52687000355959
+      }
+    },    {
+      "id": "d7d16ecc-75d7-4dd6-87a7-55ecfce95b09",
+      "license_plate": "534ERE",
+      "energy_level": 62,
+      "distance_to_travel": 37.199999999999996,
+      "location": {
+        "lng": 13.422670158922234,
+        "lat": 52.47570153731519
+      }
+    },    {
+      "id": "b3e93f0b-1256-46d1-a890-e2c170672eea",
+      "license_plate": "356ERE",
+      "energy_level": 87,
+      "distance_to_travel": 52.199999999999996,
+      "location": {
+        "lng": 13.304577919323561,
+        "lat": 52.50566234243631
+      }
+    },    {
+      "id": "47c98297-c02a-4f83-81ed-69b3329ae9be",
+      "license_plate": "701ERE",
+      "energy_level": 78,
+      "distance_to_travel": 46.8,
+      "location": {
+        "lng": 13.45124329759079,
+        "lat": 52.50998648176325
+      }
+    },    {
+      "id": "a5216f97-809f-48f1-b7aa-c05c70efc8d4",
+      "license_plate": "575ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.369618848135296,
+        "lat": 52.52582211572839
+      }
+    },    {
+      "id": "794306b6-d27f-4a62-aa5b-f19ad2188bd9",
+      "license_plate": "652ERE",
+      "energy_level": 100,
+      "distance_to_travel": 60.0,
+      "location": {
+        "lng": 13.305135000545878,
+        "lat": 52.512238377929805
+      }
+    },    {
+      "id": "03be6d0d-9ea6-4e00-a1b9-3e320b87cc21",
+      "license_plate": "618ERE",
+      "energy_level": 59,
+      "distance_to_travel": 35.4,
+      "location": {
+        "lng": 13.42608206101117,
+        "lat": 52.54863965326338
+      }
+    },    {
+      "id": "9ed1c583-7dad-4fa9-9655-0f233b873baf",
+      "license_plate": "799ERE",
+      "energy_level": 56,
+      "distance_to_travel": 33.6,
+      "location": {
+        "lng": 13.336859502628025,
+        "lat": 52.53343393699258
+      }
+    },    {
+      "id": "1a0b43a2-eb1d-4e0e-a1c8-cdede88474f8",
+      "license_plate": "249ERE",
+      "energy_level": 68,
+      "distance_to_travel": 40.8,
+      "location": {
+        "lng": 13.349093143602838,
+        "lat": 52.482513204061945
+      }
+    },    {
+      "id": "d900ca50-25cd-4d68-8285-58addf1a3a76",
+      "license_plate": "564ERE",
+      "energy_level": 81,
+      "distance_to_travel": 48.6,
+      "location": {
+        "lng": 13.35408771394736,
+        "lat": 52.49621660354227
+      }
+    },    {
+      "id": "e86ca93f-92b0-47a7-849a-ed41123d3126",
+      "license_plate": "623ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.44764811594809,
+        "lat": 52.476085471968865
+      }
+    },    {
+      "id": "d180a5df-1d41-4164-915c-b7651e980aa4",
+      "license_plate": "678ERE",
+      "energy_level": 48,
+      "distance_to_travel": 28.799999999999997,
+      "location": {
+        "lng": 13.369024300057479,
+        "lat": 52.52663865358017
+      }
+    },    {
+      "id": "ef7e0e5b-b999-4365-84f1-2d3d3533ac40",
+      "license_plate": "134ERE",
+      "energy_level": 74,
+      "distance_to_travel": 44.4,
+      "location": {
+        "lng": 13.43234269680351,
+        "lat": 52.494244775899894
+      }
+    },    {
+      "id": "1a5348b6-3304-4de0-932b-ae66e4b9117a",
+      "license_plate": "179ERE",
+      "energy_level": 73,
+      "distance_to_travel": 43.8,
+      "location": {
+        "lng": 13.464275595951362,
+        "lat": 52.52335698090889
+      }
+    },    {
+      "id": "9747b2d0-2036-4096-9ee2-9773952de623",
+      "license_plate": "558ERE",
+      "energy_level": 81,
+      "distance_to_travel": 48.6,
+      "location": {
+        "lng": 13.339856054929255,
+        "lat": 52.51859466430875
+      }
+    },    {
+      "id": "d7772581-41e4-4ede-805c-3f9f1cd05d9e",
+      "license_plate": "671ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.29230679358347,
+        "lat": 52.518557470499346
+      }
+    },    {
+      "id": "a2cd26be-3e8c-4df1-aa8a-bf61a0407518",
+      "license_plate": "602ERE",
+      "energy_level": 58,
+      "distance_to_travel": 34.8,
+      "location": {
+        "lng": 13.35719547417877,
+        "lat": 52.481708428972496
+      }
+    },    {
+      "id": "377882ba-1f6c-4199-97ee-5c4688f4a8f5",
+      "license_plate": "368ERE",
+      "energy_level": 32,
+      "distance_to_travel": 19.2,
+      "location": {
+        "lng": 13.45745688530229,
+        "lat": 52.51304580890704
+      }
+    },    {
+      "id": "05ba8757-c7d3-42ad-b225-242d85c63aa2",
+      "license_plate": "209ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.442060531284785,
+        "lat": 52.467729060137856
+      }
+    },    {
+      "id": "fb74e800-4818-41b7-86eb-f316c4226330",
+      "license_plate": "526ERE",
+      "energy_level": 69,
+      "distance_to_travel": 41.4,
+      "location": {
+        "lng": 13.384108289424294,
+        "lat": 52.48517156711727
+      }
+    },    {
+      "id": "ec97525d-37c0-4f00-84ec-ba294e28beec",
+      "license_plate": "437ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.288454712302526,
+        "lat": 52.524015940832115
+      }
+    },    {
+      "id": "74558f2c-4d5c-4aaa-99b6-5fc974b59fbf",
+      "license_plate": "328ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.427117446506125,
+        "lat": 52.51158942250819
+      }
+    },    {
+      "id": "e2f2b3b3-df1b-4a01-8014-cd95b88ee480",
+      "license_plate": "215ERE",
+      "energy_level": 63,
+      "distance_to_travel": 37.8,
+      "location": {
+        "lng": 13.364633311479416,
+        "lat": 52.49078872066187
+      }
+    },    {
+      "id": "4d524174-eb34-46e2-8add-7e1b56bfb902",
+      "license_plate": "364ERE",
+      "energy_level": 57,
+      "distance_to_travel": 34.199999999999996,
+      "location": {
+        "lng": 13.399371355422423,
+        "lat": 52.54440373716949
+      }
+    },    {
+      "id": "f5174f39-6de5-4e79-8175-d4d19bfd1bd5",
+      "license_plate": "163ERE",
+      "energy_level": 79,
+      "distance_to_travel": 47.4,
+      "location": {
+        "lng": 13.415693325079744,
+        "lat": 52.50158207725866
+      }
+    },    {
+      "id": "78d21920-a19b-4a01-a358-cb855708d375",
+      "license_plate": "842ERE",
+      "energy_level": 56,
+      "distance_to_travel": 33.6,
+      "location": {
+        "lng": 13.403255526129172,
+        "lat": 52.517152613212005
+      }
+    },    {
+      "id": "bba8e228-529a-44ea-a09a-c66e39cfe2c8",
+      "license_plate": "553ERE",
+      "energy_level": 45,
+      "distance_to_travel": 27.0,
+      "location": {
+        "lng": 13.39476949999923,
+        "lat": 52.515277500000195
+      }
+    },    {
+      "id": "4a70f210-af09-4088-97a5-f6a83d37abe4",
+      "license_plate": "410ERE",
+      "energy_level": 39,
+      "distance_to_travel": 23.4,
+      "location": {
+        "lng": 13.443050800716568,
+        "lat": 52.470415935180306
+      }
+    },    {
+      "id": "be3c122e-acdb-44cb-8d2a-cdb7fc262bcf",
+      "license_plate": "416ERE",
+      "energy_level": 63,
+      "distance_to_travel": 37.8,
+      "location": {
+        "lng": 13.304904119865638,
+        "lat": 52.514583008989376
+      }
+    },    {
+      "id": "5ba192e2-1ada-4102-b690-d0aa788c30d7",
+      "license_plate": "470ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.369055709035818,
+        "lat": 52.526661024230904
+      }
+    },    {
+      "id": "19b4588a-4d92-4920-b60c-905205665cdb",
+      "license_plate": "704ERE",
+      "energy_level": 34,
+      "distance_to_travel": 20.4,
+      "location": {
+        "lng": 13.349715994803441,
+        "lat": 52.542421927091915
+      }
+    },    {
+      "id": "c535aeac-203b-4bab-8e91-f6adff6b0885",
+      "license_plate": "525ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.433664006701083,
+        "lat": 52.47922976442799
+      }
+    },    {
+      "id": "1bfb228a-ef12-4ef8-9889-05cfbb50937b",
+      "license_plate": "629ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.409127733257579,
+        "lat": 52.528859942366616
+      }
+    },    {
+      "id": "1f458e13-0da1-4b6b-b37c-38a5c211f243",
+      "license_plate": "669ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.43914121006437,
+        "lat": 52.47205672217371
+      }
+    },    {
+      "id": "0d57f4fa-164a-438b-98ea-66676239da9d",
+      "license_plate": "244ERE",
+      "energy_level": 50,
+      "distance_to_travel": 30.0,
+      "location": {
+        "lng": 13.319433212026588,
+        "lat": 52.50746112768329
+      }
+    },    {
+      "id": "e23eee67-f591-46be-a5cd-d651a70beb82",
+      "license_plate": "301ERE",
+      "energy_level": 40,
+      "distance_to_travel": 24.0,
+      "location": {
+        "lng": 13.430248152381782,
+        "lat": 52.55062222337995
+      }
+    },    {
+      "id": "c36ef588-0f46-4229-af5c-0f389eb375b4",
+      "license_plate": "314ERE",
+      "energy_level": 79,
+      "distance_to_travel": 47.4,
+      "location": {
+        "lng": 13.448826044266474,
+        "lat": 52.52549532291932
+      }
+    },    {
+      "id": "9b2327f0-a3bc-4da5-892d-97b51b7a8594",
+      "license_plate": "332ERE",
+      "energy_level": 51,
+      "distance_to_travel": 30.599999999999998,
+      "location": {
+        "lng": 13.479892615759503,
+        "lat": 52.48475290063123
+      }
+    },    {
+      "id": "29d1ad14-1300-41f6-ba2b-1a5eeceb08e4",
+      "license_plate": "458ERE",
+      "energy_level": 84,
+      "distance_to_travel": 50.4,
+      "location": {
+        "lng": 13.450320188702607,
+        "lat": 52.496496365619095
+      }
+    },    {
+      "id": "6430a296-da84-451d-b23a-1505927397ff",
+      "license_plate": "599ERE",
+      "energy_level": 89,
+      "distance_to_travel": 53.4,
+      "location": {
+        "lng": 13.428732640103439,
+        "lat": 52.472548024280755
+      }
+    },    {
+      "id": "00be18e1-60c3-4074-aba5-f78139ac4c7b",
+      "license_plate": "486ERE",
+      "energy_level": 84,
+      "distance_to_travel": 50.4,
+      "location": {
+        "lng": 13.368546808050823,
+        "lat": 52.52584431822125
+      }
+    },    {
+      "id": "c8a4e2d4-e19c-463e-bbba-9d5625c560e8",
+      "license_plate": "546ERE",
+      "energy_level": 100,
+      "distance_to_travel": 60.0,
+      "location": {
+        "lng": 13.438031112481726,
+        "lat": 52.4941913714306
+      }
+    },    {
+      "id": "4f2483f1-3b8d-438d-8a74-2e7322ba3a60",
+      "license_plate": "541ERE",
+      "energy_level": 78,
+      "distance_to_travel": 46.8,
+      "location": {
+        "lng": 13.380456174468046,
+        "lat": 52.4782603951544
+      }
+    },    {
+      "id": "77b2a4b3-5506-4512-8541-20d8a327db30",
+      "license_plate": "218ERE",
+      "energy_level": 93,
+      "distance_to_travel": 55.8,
+      "location": {
+        "lng": 13.316736058816787,
+        "lat": 52.52990020153019
+      }
+    },    {
+      "id": "6877a189-ee2d-47d8-9935-8ccbb8671cf5",
+      "license_plate": "792ERE",
+      "energy_level": 66,
+      "distance_to_travel": 39.6,
+      "location": {
+        "lng": 13.432496957666967,
+        "lat": 52.481833628301935
+      }
+    },    {
+      "id": "07969518-4471-4831-aade-b78b5f5bd898",
+      "license_plate": "739ERE",
+      "energy_level": 66,
+      "distance_to_travel": 39.6,
+      "location": {
+        "lng": 13.40973195831738,
+        "lat": 52.502455708426375
+      }
+    },    {
+      "id": "18de4be2-d2e2-4579-a3a2-40a58d83fdeb",
+      "license_plate": "686ERE",
+      "energy_level": 45,
+      "distance_to_travel": 27.0,
+      "location": {
+        "lng": 13.333747166901423,
+        "lat": 52.50507521481101
+      }
+    },    {
+      "id": "53e175d9-ae64-4f25-a4e8-ed59a7313c36",
+      "license_plate": "366ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.43492454099721,
+        "lat": 52.496333334700914
+      }
+    },    {
+      "id": "19b4728d-c898-4758-a96a-a2771742490a",
+      "license_plate": "680ERE",
+      "energy_level": 51,
+      "distance_to_travel": 30.599999999999998,
+      "location": {
+        "lng": 13.288917966331185,
+        "lat": 52.51892276293662
+      }
+    },    {
+      "id": "b21dcef8-691f-47d4-9845-2e4e59a1cc53",
+      "license_plate": "715ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.35831827822995,
+        "lat": 52.50690409865362
+      }
+    },    {
+      "id": "ace7420b-2f78-4379-bbe4-977d4f1a78ed",
+      "license_plate": "800ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.449375238027999,
+        "lat": 52.52205091431304
+      }
+    },    {
+      "id": "d2a72251-cf74-4bdf-930c-a0f1a7dd0c03",
+      "license_plate": "240ERE",
+      "energy_level": 71,
+      "distance_to_travel": 42.6,
+      "location": {
+        "lng": 13.351927671854636,
+        "lat": 52.50708980693703
+      }
+    },    {
+      "id": "859acc66-aa15-43ac-9642-245e80a0d077",
+      "license_plate": "482ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.36007773871263,
+        "lat": 52.55035864242157
+      }
+    },    {
+      "id": "5fa14498-241f-49ce-900e-72b9a65aa376",
+      "license_plate": "493ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.466090814362268,
+        "lat": 52.499907316957966
+      }
+    },    {
+      "id": "9b99083b-2b9e-4b6d-938f-9d784356ca66",
+      "license_plate": "846ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.423364328618447,
+        "lat": 52.53793254482622
+      }
+    },    {
+      "id": "4f2aaefc-0da7-432b-9005-195dd643e4ab",
+      "license_plate": "358ERF",
+      "energy_level": 35,
+      "distance_to_travel": 21.0,
+      "location": {
+        "lng": 13.429336770780449,
+        "lat": 52.47122641669379
+      }
+    },    {
+      "id": "74b25f85-963e-4293-979e-ce766765c57c",
+      "license_plate": "824ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.355136707028121,
+        "lat": 52.54636662343935
+      }
+    },    {
+      "id": "ea9d58c1-0b63-4009-995c-ac52107abd6b",
+      "license_plate": "114ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.375995447932693,
+        "lat": 52.5286707656331
+      }
+    },    {
+      "id": "0ea19a60-42de-4746-84e5-9c88f5310842",
+      "license_plate": "388ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.410786388331259,
+        "lat": 52.4972456903467
+      }
+    },    {
+      "id": "0a5380a7-74af-4288-aedc-4f4901ee3c14",
+      "license_plate": "154ERE",
+      "energy_level": 88,
+      "distance_to_travel": 52.8,
+      "location": {
+        "lng": 13.414527619682692,
+        "lat": 52.52581232292583
+      }
+    },    {
+      "id": "f2100479-2d4d-4e81-ac51-f1617dfc0636",
+      "license_plate": "173ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.313415787610065,
+        "lat": 52.50070567899077
+      }
+    },    {
+      "id": "375d99a0-1c31-4a10-98b9-172be8c49498",
+      "license_plate": "728ERE",
+      "energy_level": 92,
+      "distance_to_travel": 55.199999999999996,
+      "location": {
+        "lng": 13.374952574008313,
+        "lat": 52.536797770959495
+      }
+    },    {
+      "id": "80b65934-dab4-4589-bad7-5cf446e969c6",
+      "license_plate": "264ERE",
+      "energy_level": 100,
+      "distance_to_travel": 60.0,
+      "location": {
+        "lng": 13.368607724198622,
+        "lat": 52.5258474807914
+      }
+    },    {
+      "id": "67f4740d-380c-4dd3-b042-9ef70435f935",
+      "license_plate": "754ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.30443275766385,
+        "lat": 52.509901722034094
+      }
+    },    {
+      "id": "757b96f9-03ed-4ca7-bfdb-e3a0f0adefd6",
+      "license_plate": "877ERF",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.432344103726527,
+        "lat": 52.49493506384708
+      }
+    },    {
+      "id": "e165c457-fb39-4f62-909e-4c816eeef45e",
+      "license_plate": "614ERE",
+      "energy_level": 37,
+      "distance_to_travel": 22.2,
+      "location": {
+        "lng": 13.45039145833211,
+        "lat": 52.49822129166999
+      }
+    },    {
+      "id": "ba9d3ddf-d84d-4b3a-bbcb-5188dbb02a8c",
+      "license_plate": "278ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.345672411998322,
+        "lat": 52.506749177340765
+      }
+    },    {
+      "id": "176c2599-84d6-4c95-9154-c11efc761ec6",
+      "license_plate": "815ERE",
+      "energy_level": 61,
+      "distance_to_travel": 36.6,
+      "location": {
+        "lng": 13.466157377228113,
+        "lat": 52.50755200068942
+      }
+    },    {
+      "id": "1c5d493d-987d-49cb-987e-8a30d768d66b",
+      "license_plate": "730ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.306927322680696,
+        "lat": 52.50789818688506
+      }
+    },    {
+      "id": "b1572290-de91-461d-9261-51ad90c064fe",
+      "license_plate": "530ERE",
+      "energy_level": 89,
+      "distance_to_travel": 53.4,
+      "location": {
+        "lng": 13.384745509313671,
+        "lat": 52.50491572442372
+      }
+    },    {
+      "id": "114fc802-9c1f-47db-82e3-7fe6c5ec401a",
+      "license_plate": "327ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.447413790371407,
+        "lat": 52.478180020988276
+      }
+    },    {
+      "id": "ed5d07cf-5e96-4666-8843-5c40a9c6851b",
+      "license_plate": "307ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.298029593408788,
+        "lat": 52.51116869922742
+      }
+    },    {
+      "id": "88357bc2-76c5-48a5-a5ac-34c4b94a75df",
+      "license_plate": "561ERE",
+      "energy_level": 54,
+      "distance_to_travel": 32.4,
+      "location": {
+        "lng": 13.423760693478192,
+        "lat": 52.520832188932154
+      }
+    },    {
+      "id": "ecadef9d-e206-436b-82f3-1a4af410af98",
+      "license_plate": "232ERE",
+      "energy_level": 82,
+      "distance_to_travel": 49.199999999999996,
+      "location": {
+        "lng": 13.411772270844926,
+        "lat": 52.51928031250866
+      }
+    },    {
+      "id": "a6c460e7-d143-4186-9b74-4df743d037d2",
+      "license_plate": "760ERE",
+      "energy_level": 91,
+      "distance_to_travel": 54.6,
+      "location": {
+        "lng": 13.430068614420202,
+        "lat": 52.5504546955855
+      }
+    },    {
+      "id": "6a3f5b4d-86b7-4e44-b73e-a27235234523",
+      "license_plate": "554ERE",
+      "energy_level": 54,
+      "distance_to_travel": 32.4,
+      "location": {
+        "lng": 13.311474498023001,
+        "lat": 52.52964476228845
+      }
+    },    {
+      "id": "a53e6dcd-fe04-49f4-9518-8a783fe7823c",
+      "license_plate": "110ERE",
+      "energy_level": 50,
+      "distance_to_travel": 30.0,
+      "location": {
+        "lng": 13.375387398175507,
+        "lat": 52.48054710936888
+      }
+    },    {
+      "id": "376b8128-65ff-4ac1-960d-59b8b52c976e",
+      "license_plate": "851ERE",
+      "energy_level": 43,
+      "distance_to_travel": 25.8,
+      "location": {
+        "lng": 13.421250119965336,
+        "lat": 52.5397158971249
+      }
+    },    {
+      "id": "97afcbfb-b2bb-46bd-ae8b-2ead381d4f71",
+      "license_plate": "633ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.372245699067365,
+        "lat": 52.53263958966055
+      }
+    },    {
+      "id": "f1509053-e703-4216-b7a9-b148ee482c84",
+      "license_plate": "292ERE",
+      "energy_level": 54,
+      "distance_to_travel": 32.4,
+      "location": {
+        "lng": 13.431762065365973,
+        "lat": 52.46674742259335
+      }
+    },    {
+      "id": "3873b9d8-1a0c-414f-8581-afe63ea00223",
+      "license_plate": "883ERE",
+      "energy_level": 64,
+      "distance_to_travel": 38.4,
+      "location": {
+        "lng": 13.294723668209532,
+        "lat": 52.5176151881189
+      }
+    },    {
+      "id": "cb752af9-26f4-46fa-9c89-78a22595ac1a",
+      "license_plate": "662ERE",
+      "energy_level": 52,
+      "distance_to_travel": 31.2,
+      "location": {
+        "lng": 13.361135750000296,
+        "lat": 52.541633250000686
+      }
+    },    {
+      "id": "34a8aabd-1cab-4701-966f-3ce748d980e7",
+      "license_plate": "370ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.368227702424619,
+        "lat": 52.52637296670284
+      }
+    },    {
+      "id": "60316584-be90-4642-8818-1bbb09efe923",
+      "license_plate": "667ERE",
+      "energy_level": 67,
+      "distance_to_travel": 40.199999999999996,
+      "location": {
+        "lng": 13.456825994011254,
+        "lat": 52.5194863644983
+      }
+    },    {
+      "id": "7054d610-944c-4246-838a-cebe2fb38540",
+      "license_plate": "795ERE",
+      "energy_level": 64,
+      "distance_to_travel": 38.4,
+      "location": {
+        "lng": 13.463567750000317,
+        "lat": 52.522075125000164
+      }
+    },    {
+      "id": "869581b7-e6b5-4b35-9820-2ffa4ab1e085",
+      "license_plate": "369ERE",
+      "energy_level": 87,
+      "distance_to_travel": 52.199999999999996,
+      "location": {
+        "lng": 13.310135740518998,
+        "lat": 52.4990870298686
+      }
+    },    {
+      "id": "9596c6d2-719f-4b65-a4d5-9d944621237a",
+      "license_plate": "649ERE",
+      "energy_level": 78,
+      "distance_to_travel": 46.8,
+      "location": {
+        "lng": 13.357240403811414,
+        "lat": 52.48172616675077
+      }
+    },    {
+      "id": "2e9c3954-9c91-4558-bc8d-f86187f0cb0c",
+      "license_plate": "472ERE",
+      "energy_level": 78,
+      "distance_to_travel": 46.8,
+      "location": {
+        "lng": 13.454100420444801,
+        "lat": 52.52496742479863
+      }
+    },    {
+      "id": "42038c78-6676-46cb-969e-1655253f1d4e",
+      "license_plate": "473ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.369893874999939,
+        "lat": 52.525851375000265
+      }
+    },    {
+      "id": "650edbbd-48dc-4ac8-aa1a-7366e9c515ff",
+      "license_plate": "802ERE",
+      "energy_level": 32,
+      "distance_to_travel": 19.2,
+      "location": {
+        "lng": 13.3538,
+        "lat": 52.500134
+      }
+    },    {
+      "id": "aa47e469-3f38-4cf0-816c-d34b5bfa4462",
+      "license_plate": "762ERE",
+      "energy_level": 82,
+      "distance_to_travel": 49.199999999999996,
+      "location": {
+        "lng": 13.3684980699792,
+        "lat": 52.52582709315539
+      }
+    },    {
+      "id": "0de3bb48-b849-4c55-9f43-60362627baea",
+      "license_plate": "425ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.440654160509725,
+        "lat": 52.54181367466606
+      }
+    },    {
+      "id": "f20e3cbc-c436-489e-803a-2074c9010f0d",
+      "license_plate": "548ERE",
+      "energy_level": 91,
+      "distance_to_travel": 54.6,
+      "location": {
+        "lng": 13.406778494795056,
+        "lat": 52.50468513802372
+      }
+    },    {
+      "id": "8d36aec3-8f51-4458-ada8-0e3e6d911094",
+      "license_plate": "592ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.443930228927766,
+        "lat": 52.51212361073757
+      }
+    },    {
+      "id": "4cc9a589-c929-427f-a230-0233c8307075",
+      "license_plate": "432ERE",
+      "energy_level": 42,
+      "distance_to_travel": 25.2,
+      "location": {
+        "lng": 13.309578578066315,
+        "lat": 52.50118316170089
+      }
+    },    {
+      "id": "728812e3-96b1-48cd-a44a-041623fc9665",
+      "license_plate": "884ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.301126238374922,
+        "lat": 52.51476487981259
+      }
+    },    {
+      "id": "386fe647-8861-421e-b966-358ffd371f6a",
+      "license_plate": "139ERE",
+      "energy_level": 78,
+      "distance_to_travel": 46.8,
+      "location": {
+        "lng": 13.335110136597406,
+        "lat": 52.48661266408926
+      }
+    },    {
+      "id": "4b8eefb0-8329-4e51-ad4d-2076dec65e97",
+      "license_plate": "854ERE",
+      "energy_level": 43,
+      "distance_to_travel": 25.8,
+      "location": {
+        "lng": 13.448693590915255,
+        "lat": 52.51139583729432
+      }
+    },    {
+      "id": "60f76650-774d-4374-a052-959f805acef8",
+      "license_plate": "384ERE",
+      "energy_level": 68,
+      "distance_to_travel": 40.8,
+      "location": {
+        "lng": 13.337673622395043,
+        "lat": 52.50386466455787
+      }
+    },    {
+      "id": "fe49645f-65c1-4a25-abfd-c9bec0956087",
+      "license_plate": "836ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.387537250117372,
+        "lat": 52.549266835092965
+      }
+    },    {
+      "id": "3f358b7f-c604-4a52-bca4-f5260452e20b",
+      "license_plate": "313ERE",
+      "energy_level": 89,
+      "distance_to_travel": 53.4,
+      "location": {
+        "lng": 13.436525697715444,
+        "lat": 52.46866795383897
+      }
+    },    {
+      "id": "f9772879-5d22-41ad-9928-a7024be1db43",
+      "license_plate": "517ERE",
+      "energy_level": 62,
+      "distance_to_travel": 37.199999999999996,
+      "location": {
+        "lng": 13.337048866684453,
+        "lat": 52.5036696144919
+      }
+    },    {
+      "id": "8deb6f7d-75d6-4170-8490-0db5fc6d5b56",
+      "license_plate": "275ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.302381766259474,
+        "lat": 52.51119170513365
+      }
+    },    {
+      "id": "265b8b88-6cfc-4b9c-9013-147bf305023c",
+      "license_plate": "823ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.324367580964658,
+        "lat": 52.52249099611615
+      }
+    },    {
+      "id": "d7a8683c-db95-4e58-adfd-45f34bfb212b",
+      "license_plate": "729ERE",
+      "energy_level": 78,
+      "distance_to_travel": 46.8,
+      "location": {
+        "lng": 13.473132888632536,
+        "lat": 52.51327847291015
+      }
+    },    {
+      "id": "1cff1bcb-e27e-4b0a-8cdf-dda071bf2a35",
+      "license_plate": "865ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.473763600302984,
+        "lat": 52.51393156078609
+      }
+    },    {
+      "id": "e8677967-8c20-45c5-b678-ef8761535c11",
+      "license_plate": "543ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.355986136986552,
+        "lat": 52.48134355009195
+      }
+    },    {
+      "id": "66017b1c-6cec-47d7-bd14-3b7eb6963c25",
+      "license_plate": "123ERE",
+      "energy_level": 64,
+      "distance_to_travel": 38.4,
+      "location": {
+        "lng": 13.390669874966926,
+        "lat": 52.50617562503616
+      }
+    },    {
+      "id": "f7552dfa-bc42-428c-9bb3-0db6c5f02ba8",
+      "license_plate": "225ERF",
+      "energy_level": 77,
+      "distance_to_travel": 46.199999999999996,
+      "location": {
+        "lng": 13.438434499997522,
+        "lat": 52.50050362500147
+      }
+    },    {
+      "id": "745579f5-62c3-4c58-96af-5569d079845f",
+      "license_plate": "352ERE",
+      "energy_level": 80,
+      "distance_to_travel": 48.0,
+      "location": {
+        "lng": 13.37278123009171,
+        "lat": 52.52759020523814
+      }
+    },    {
+      "id": "e8803987-5e03-4a0d-ac77-01924457f74b",
+      "license_plate": "197ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.324262177088812,
+        "lat": 52.50590363645603
+      }
+    },    {
+      "id": "d741e094-795b-4cb8-91c4-5fc23bd39b7a",
+      "license_plate": "791ERE",
+      "energy_level": 91,
+      "distance_to_travel": 54.6,
+      "location": {
+        "lng": 13.454725882431605,
+        "lat": 52.496382147036556
+      }
+    },    {
+      "id": "d1ea7f40-d4ce-41df-8e3c-b441457b6369",
+      "license_plate": "590ERE",
+      "energy_level": 50,
+      "distance_to_travel": 30.0,
+      "location": {
+        "lng": 13.4517033085545,
+        "lat": 52.52002601962986
+      }
+    },    {
+      "id": "d9ef5bf9-ee2a-4c13-a5b1-5d78022c906c",
+      "license_plate": "840ERE",
+      "energy_level": 40,
+      "distance_to_travel": 24.0,
+      "location": {
+        "lng": 13.418560833316526,
+        "lat": 52.5346775416758
+      }
+    },    {
+      "id": "8ef3120a-952e-490f-98a0-b59489bb6026",
+      "license_plate": "751ERE",
+      "energy_level": 74,
+      "distance_to_travel": 44.4,
+      "location": {
+        "lng": 13.369931425451034,
+        "lat": 52.523333404202965
+      }
+    },    {
+      "id": "26171e5d-9bf1-46a4-8f78-24dfee96059b",
+      "license_plate": "771ERE",
+      "energy_level": 82,
+      "distance_to_travel": 49.199999999999996,
+      "location": {
+        "lng": 13.333370393435475,
+        "lat": 52.507479278119355
+      }
+    },    {
+      "id": "6893f2cc-953c-4655-8cbf-46eaad2bdeb6",
+      "license_plate": "415ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.433062417990728,
+        "lat": 52.48247339344185
+      }
+    },    {
+      "id": "6c18bc7a-02cc-4d37-b386-7aaf226957b4",
+      "license_plate": "573ERE",
+      "energy_level": 94,
+      "distance_to_travel": 56.4,
+      "location": {
+        "lng": 13.373135125705723,
+        "lat": 52.53800917097205
+      }
+    },    {
+      "id": "8ae29d4f-418f-46c2-b85d-53e9d58092da",
+      "license_plate": "330ERE",
+      "energy_level": 89,
+      "distance_to_travel": 53.4,
+      "location": {
+        "lng": 13.372737793259153,
+        "lat": 52.52756873105783
+      }
+    },    {
+      "id": "24ded71a-b5f6-496f-87c0-0779e0500db2",
+      "license_plate": "674ERE",
+      "energy_level": 41,
+      "distance_to_travel": 24.599999999999998,
+      "location": {
+        "lng": 13.43145757718208,
+        "lat": 52.47893501591376
+      }
+    },    {
+      "id": "a9dae9ad-b4d1-4812-a3a5-e42f72da80c3",
+      "license_plate": "897ERE",
+      "energy_level": 72,
+      "distance_to_travel": 43.199999999999996,
+      "location": {
+        "lng": 13.376057375078318,
+        "lat": 52.48042514270862
+      }
+    },    {
+      "id": "f5e0fd12-63a5-4c9b-9845-6b252aa9383c",
+      "license_plate": "841ERE",
+      "energy_level": 77,
+      "distance_to_travel": 46.199999999999996,
+      "location": {
+        "lng": 13.321517592125293,
+        "lat": 52.508793546956696
+      }
+    },    {
+      "id": "b4dee01f-89f2-4f08-9d05-514f7b8295b7",
+      "license_plate": "442ERE",
+      "energy_level": 91,
+      "distance_to_travel": 54.6,
+      "location": {
+        "lng": 13.46564361914901,
+        "lat": 52.5061381853758
+      }
+    },    {
+      "id": "8f78a0a0-3d00-4e6b-a1f4-86699ac1f833",
+      "license_plate": "477ERE",
+      "energy_level": 69,
+      "distance_to_travel": 41.4,
+      "location": {
+        "lng": 13.324353088762487,
+        "lat": 52.511679062703145
+      }
+    },    {
+      "id": "da4d5d9c-561b-42cf-adbd-bd229fbf64bb",
+      "license_plate": "309ERE",
+      "energy_level": 52,
+      "distance_to_travel": 31.2,
+      "location": {
+        "lng": 13.451749062745439,
+        "lat": 52.52007080546975
+      }
+    },    {
+      "id": "6d39b370-1ab2-4969-b71d-cad67bd3ee60",
+      "license_plate": "112ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.305734420572538,
+        "lat": 52.5135256289508
+      }
+    },    {
+      "id": "8fa26d1f-004f-4673-ad7a-f3e6c3a3db71",
+      "license_plate": "646ERE",
+      "energy_level": 59,
+      "distance_to_travel": 35.4,
+      "location": {
+        "lng": 13.44620048826125,
+        "lat": 52.509566000297404
+      }
+    },    {
+      "id": "fe99e0f6-14f6-4c91-bef3-f7f72f67fb76",
+      "license_plate": "182ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.449793634008937,
+        "lat": 52.4789397899195
+      }
+    },    {
+      "id": "27d18a2b-75fa-4070-a864-e8cb2d816b42",
+      "license_plate": "831ERE",
+      "energy_level": 69,
+      "distance_to_travel": 41.4,
+      "location": {
+        "lng": 13.434001885923125,
+        "lat": 52.51177443601369
+      }
+    },    {
+      "id": "973c137c-a081-4ac0-a12a-dcaa23cc4222",
+      "license_plate": "221ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.3760615313512,
+        "lat": 52.52866179766686
+      }
+    },    {
+      "id": "ce60e7dd-da0c-4cea-96ad-f0db194bc430",
+      "license_plate": "428ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.437505799146384,
+        "lat": 52.49340545439296
+      }
+    },    {
+      "id": "1c560cfd-69a1-4974-ad1c-483eb4fe6ff5",
+      "license_plate": "430ERE",
+      "energy_level": 61,
+      "distance_to_travel": 36.6,
+      "location": {
+        "lng": 13.384939711073894,
+        "lat": 52.53802979114727
+      }
+    },    {
+      "id": "d6ebd19f-2456-4feb-9cb5-d073e55d7987",
+      "license_plate": "452ERE",
+      "energy_level": 92,
+      "distance_to_travel": 55.199999999999996,
+      "location": {
+        "lng": 13.358271269173757,
+        "lat": 52.506935669328165
+      }
+    },    {
+      "id": "08116f7b-fc09-4b65-a6ce-96b18ab9f7af",
+      "license_plate": "190ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.390864268267274,
+        "lat": 52.50099455846174
+      }
+    },    {
+      "id": "3c64c849-5f09-447d-8efb-46a0c961188f",
+      "license_plate": "499ERE",
+      "energy_level": 31,
+      "distance_to_travel": 18.599999999999998,
+      "location": {
+        "lng": 13.459154575341783,
+        "lat": 52.512595665408256
+      }
+    },    {
+      "id": "bee904c0-9639-485b-a5bb-38fefe8e2eab",
+      "license_plate": "668ERE",
+      "energy_level": 57,
+      "distance_to_travel": 34.199999999999996,
+      "location": {
+        "lng": 13.375370839832975,
+        "lat": 52.500628311721506
+      }
+    },    {
+      "id": "d64baefb-9c9e-49c2-be0c-5293fb8ec6d8",
+      "license_plate": "742ERF",
+      "energy_level": 80,
+      "distance_to_travel": 48.0,
+      "location": {
+        "lng": 13.439102300698757,
+        "lat": 52.495150249690816
+      }
+    },    {
+      "id": "ca324bca-737a-4546-bd01-9e21b3e4b710",
+      "license_plate": "211ERE",
+      "energy_level": 81,
+      "distance_to_travel": 48.6,
+      "location": {
+        "lng": 13.326604973875964,
+        "lat": 52.51231452683957
+      }
+    },    {
+      "id": "a7f2f404-b9c9-406e-9436-a5a051b6944b",
+      "license_plate": "628ERE",
+      "energy_level": 100,
+      "distance_to_travel": 60.0,
+      "location": {
+        "lng": 13.33773771611013,
+        "lat": 52.50380211721679
+      }
+    },    {
+      "id": "4d66d715-3d2a-4e35-8a0d-2f3c3653582a",
+      "license_plate": "882ERE",
+      "energy_level": 61,
+      "distance_to_travel": 36.6,
+      "location": {
+        "lng": 13.385634337337736,
+        "lat": 52.4783264672889
+      }
+    },    {
+      "id": "ff43c707-0f1c-4337-aefd-72b3a6b92319",
+      "license_plate": "260ERE",
+      "energy_level": 82,
+      "distance_to_travel": 49.199999999999996,
+      "location": {
+        "lng": 13.333664369753803,
+        "lat": 52.50512933980655
+      }
+    },    {
+      "id": "7e86abaa-b451-423d-a1e4-11573c239305",
+      "license_plate": "584ERE",
+      "energy_level": 94,
+      "distance_to_travel": 56.4,
+      "location": {
+        "lng": 13.296051447170079,
+        "lat": 52.50899523561561
+      }
+    },    {
+      "id": "fd96e4d4-43d6-4359-a8e1-64dd0a172f72",
+      "license_plate": "229ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.45184519792537,
+        "lat": 52.51996417972191
+      }
+    },    {
+      "id": "d0159c59-6c83-4e20-928e-65b69c3e5d30",
+      "license_plate": "231ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.461081200516256,
+        "lat": 52.51101409635534
+      }
+    },    {
+      "id": "fe9ad110-4d46-453e-be97-caf58c103194",
+      "license_plate": "586ERE",
+      "energy_level": 63,
+      "distance_to_travel": 37.8,
+      "location": {
+        "lng": 13.47575987642481,
+        "lat": 52.51342687990935
+      }
+    },    {
+      "id": "1825d8c0-f29c-40b5-acc8-606c848765af",
+      "license_plate": "673ERE",
+      "energy_level": 93,
+      "distance_to_travel": 55.8,
+      "location": {
+        "lng": 13.418300541788517,
+        "lat": 52.52993464571008
+      }
+    },    {
+      "id": "cdc80ce1-cc87-41f6-acf4-7dddf298c4b7",
+      "license_plate": "579ERE",
+      "energy_level": 61,
+      "distance_to_travel": 36.6,
+      "location": {
+        "lng": 13.385059793886665,
+        "lat": 52.497936627832225
+      }
+    },    {
+      "id": "4b949236-6b0b-4dd3-ac57-237feee3715a",
+      "license_plate": "214ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.35303739998758,
+        "lat": 52.549801780183806
+      }
+    },    {
+      "id": "52083fc7-77a2-4b79-9354-09d6a1a0b3a7",
+      "license_plate": "466ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.352385877590885,
+        "lat": 52.497876861982846
+      }
+    },    {
+      "id": "4e2f53fe-a27b-4a00-b20c-401d5a53324a",
+      "license_plate": "632ERE",
+      "energy_level": 58,
+      "distance_to_travel": 34.8,
+      "location": {
+        "lng": 13.438012290692036,
+        "lat": 52.5402811125592
+      }
+    },    {
+      "id": "586ce20e-ee2d-48ff-9fd2-683816d6b593",
+      "license_plate": "822ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.3528343678798,
+        "lat": 52.494895405760595
+      }
+    },    {
+      "id": "8bd8b65e-9485-4c84-83fc-b228eea5c4c4",
+      "license_plate": "448ERE",
+      "energy_level": 78,
+      "distance_to_travel": 46.8,
+      "location": {
+        "lng": 13.2880060000461,
+        "lat": 52.5145144816405
+      }
+    },    {
+      "id": "7b8d08f3-b89e-42bf-aa03-1531aa882214",
+      "license_plate": "814ERE",
+      "energy_level": 80,
+      "distance_to_travel": 48.0,
+      "location": {
+        "lng": 13.379428790059904,
+        "lat": 52.5261724760347
+      }
+    },    {
+      "id": "8ecc40fd-2675-40d6-9795-71bd0a735062",
+      "license_plate": "804ERE",
+      "energy_level": 60,
+      "distance_to_travel": 36.0,
+      "location": {
+        "lng": 13.422298565279712,
+        "lat": 52.47549324447927
+      }
+    },    {
+      "id": "f2166853-0337-42ca-be44-78ba67a9da34",
+      "license_plate": "693ERE",
+      "energy_level": 73,
+      "distance_to_travel": 43.8,
+      "location": {
+        "lng": 13.305961852907473,
+        "lat": 52.52616285850414
+      }
+    },    {
+      "id": "a77c908f-39b4-4171-bfc4-18092eb6aab0",
+      "license_plate": "895ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.446009658360431,
+        "lat": 52.52369688538789
+      }
+    },    {
+      "id": "f5dceab1-2226-480e-a6fd-ac5298290d71",
+      "license_plate": "171ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.34199451203861,
+        "lat": 52.50178418308011
+      }
+    },    {
+      "id": "27bfe780-4ab7-4d76-a037-9ec554dd5a8f",
+      "license_plate": "185ERE",
+      "energy_level": 87,
+      "distance_to_travel": 52.199999999999996,
+      "location": {
+        "lng": 13.307648063995673,
+        "lat": 52.49842403171228
+      }
+    },    {
+      "id": "a51158c2-5feb-46b7-a821-ba438d3e3285",
+      "license_plate": "732ERE",
+      "energy_level": 58,
+      "distance_to_travel": 34.8,
+      "location": {
+        "lng": 13.423572464700179,
+        "lat": 52.52471056402873
+      }
+    },    {
+      "id": "f53fd548-bda1-4e4f-8708-85ef08ad4128",
+      "license_plate": "746ERE",
+      "energy_level": 64,
+      "distance_to_travel": 38.4,
+      "location": {
+        "lng": 13.31611645103009,
+        "lat": 52.508934746851786
+      }
+    },    {
+      "id": "3cc6f23e-0b73-4ecb-bb3d-677e67e33a32",
+      "license_plate": "514ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.327849314029201,
+        "lat": 52.504633681490816
+      }
+    },    {
+      "id": "a47dabfb-a9d1-49b3-8379-97bd3b93bed0",
+      "license_plate": "155ERE",
+      "energy_level": 56,
+      "distance_to_travel": 33.6,
+      "location": {
+        "lng": 13.463038830666553,
+        "lat": 52.51679310806934
+      }
+    },    {
+      "id": "ffcfd4ba-294e-4c42-9ee9-e8c11b5a9826",
+      "license_plate": "542ERE",
+      "energy_level": 51,
+      "distance_to_travel": 30.599999999999998,
+      "location": {
+        "lng": 13.44251443407544,
+        "lat": 52.509242481836516
+      }
+    },    {
+      "id": "81745921-4068-475f-a8e7-e3bdc1075fc5",
+      "license_plate": "522ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.371997555635197,
+        "lat": 52.51094111894014
+      }
+    },    {
+      "id": "44038388-ef64-4a24-bb56-8b834180ed51",
+      "license_plate": "329ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.434604272973427,
+        "lat": 52.4717789362136
+      }
+    },    {
+      "id": "8b2f440b-1aab-467b-8306-c978f0a325a1",
+      "license_plate": "899ERE",
+      "energy_level": 71,
+      "distance_to_travel": 42.6,
+      "location": {
+        "lng": 13.443071749963735,
+        "lat": 52.498281625012474
+      }
+    },    {
+      "id": "55f8d79a-1337-49d7-a97d-98eff5180adf",
+      "license_plate": "490ERE",
+      "energy_level": 94,
+      "distance_to_travel": 56.4,
+      "location": {
+        "lng": 13.330472807853681,
+        "lat": 52.51427963356598
+      }
+    },    {
+      "id": "855efc20-f56a-493f-901c-1abcbd1303c0",
+      "license_plate": "556ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.36600973931208,
+        "lat": 52.55681661093387
+      }
+    },    {
+      "id": "e51a9b09-cb75-4109-8b0b-6dfb581edf5a",
+      "license_plate": "785ERE",
+      "energy_level": 52,
+      "distance_to_travel": 31.2,
+      "location": {
+        "lng": 13.342062207295326,
+        "lat": 52.501787027193465
+      }
+    },    {
+      "id": "2bf43e15-667d-4e21-a12c-e5d964d6c2a8",
+      "license_plate": "588ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.351673521061237,
+        "lat": 52.50161347813225
+      }
+    },    {
+      "id": "737bdab8-4b38-4cfd-8c04-647631b67ecd",
+      "license_plate": "687ERE",
+      "energy_level": 81,
+      "distance_to_travel": 48.6,
+      "location": {
+        "lng": 13.317852561534382,
+        "lat": 52.507648204062264
+      }
+    },    {
+      "id": "eb9a7270-5bbc-4aa4-be3a-f1e49a90f038",
+      "license_plate": "266ERE",
+      "energy_level": 91,
+      "distance_to_travel": 54.6,
+      "location": {
+        "lng": 13.372721519055741,
+        "lat": 52.52758362289991
+      }
+    },    {
+      "id": "ec1f47e1-ff71-402f-924c-9065d93b9ad0",
+      "license_plate": "567ERE",
+      "energy_level": 92,
+      "distance_to_travel": 55.199999999999996,
+      "location": {
+        "lng": 13.394319160571813,
+        "lat": 52.53344494912007
+      }
+    },    {
+      "id": "eeb7d976-fa9e-4d0b-b8e3-b78d8177ee93",
+      "license_plate": "475ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.41876888756856,
+        "lat": 52.50261335904505
+      }
+    },    {
+      "id": "90bfe68e-8c9c-461d-9ca9-273328eb5e9b",
+      "license_plate": "268ERE",
+      "energy_level": 91,
+      "distance_to_travel": 54.6,
+      "location": {
+        "lng": 13.363363887961397,
+        "lat": 52.507430433836525
+      }
+    },    {
+      "id": "d7d411f6-7ad0-4732-a2c9-5e1d922105f8",
+      "license_plate": "637ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.391624850044815,
+        "lat": 52.52085297389756
+      }
+    },    {
+      "id": "6178b05f-ad46-4c8d-ad0f-9f3174656a5b",
+      "license_plate": "698ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.330935836066415,
+        "lat": 52.5142423902126
+      }
+    },    {
+      "id": "8e2fe927-64de-4067-861d-b3dd377d6571",
+      "license_plate": "253ERE",
+      "energy_level": 79,
+      "distance_to_travel": 47.4,
+      "location": {
+        "lng": 13.308260628452011,
+        "lat": 52.518305953562724
+      }
+    },    {
+      "id": "6a489c64-3279-4edf-8047-a9f8d460280f",
+      "license_plate": "616ERE",
+      "energy_level": 47,
+      "distance_to_travel": 28.2,
+      "location": {
+        "lng": 13.317429813772476,
+        "lat": 52.50607673785148
+      }
+    },    {
+      "id": "eee64882-0228-4883-89b2-1b15717953e4",
+      "license_plate": "414ERE",
+      "energy_level": 59,
+      "distance_to_travel": 35.4,
+      "location": {
+        "lng": 13.419287348674919,
+        "lat": 52.49741936367963
+      }
+    },    {
+      "id": "bb9d389b-806e-4d66-ba1d-9f92a5640160",
+      "license_plate": "178ERE",
+      "energy_level": 52,
+      "distance_to_travel": 31.2,
+      "location": {
+        "lng": 13.303423133586499,
+        "lat": 52.51558344901604
+      }
+    },    {
+      "id": "e6897458-aac8-4216-8b2d-2a9244a251db",
+      "license_plate": "312ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.293962203717518,
+        "lat": 52.51574332734861
+      }
+    },    {
+      "id": "af0ea26e-0fa9-463b-844f-34895ae01c2a",
+      "license_plate": "206ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.383472385179308,
+        "lat": 52.5552134361073
+      }
+    },    {
+      "id": "56181a13-cf52-4f8f-bab7-62b5a46e5005",
+      "license_plate": "803ERE",
+      "energy_level": 57,
+      "distance_to_travel": 34.199999999999996,
+      "location": {
+        "lng": 13.351727999997333,
+        "lat": 52.50159150000048
+      }
+    },    {
+      "id": "141d2eae-2405-4f4a-9262-50eebab0af49",
+      "license_plate": "589ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.394411770719811,
+        "lat": 52.531527844690864
+      }
+    },    {
+      "id": "710e4901-4aee-4d28-b8ee-6ec5410e0a08",
+      "license_plate": "719ERE",
+      "energy_level": 50,
+      "distance_to_travel": 30.0,
+      "location": {
+        "lng": 13.3274978872174,
+        "lat": 52.503530171962645
+      }
+    },    {
+      "id": "5913abd8-69d5-4871-b419-61a74643c7b4",
+      "license_plate": "776ERE",
+      "energy_level": 59,
+      "distance_to_travel": 35.4,
+      "location": {
+        "lng": 13.318909463693103,
+        "lat": 52.5076648054041
+      }
+    },    {
+      "id": "1859d0b2-f1ec-4c21-b1ff-d7282a996015",
+      "license_plate": "900ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.327157497578508,
+        "lat": 52.51266222786951
+      }
+    },    {
+      "id": "abb5759c-8b0a-4ca7-ac5e-a0a2860b36c6",
+      "license_plate": "813ERF",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.29716434918517,
+        "lat": 52.527381947129555
+      }
+    },    {
+      "id": "7b1ab12b-6ddb-4a27-bd4f-3d5267c17c45",
+      "license_plate": "697ERE",
+      "energy_level": 82,
+      "distance_to_travel": 49.199999999999996,
+      "location": {
+        "lng": 13.428597352749627,
+        "lat": 52.54707200169619
+      }
+    },    {
+      "id": "175377bc-9cc8-4a2f-b203-4912acc6ae4d",
+      "license_plate": "734ERE",
+      "energy_level": 58,
+      "distance_to_travel": 34.8,
+      "location": {
+        "lng": 13.47288752029172,
+        "lat": 52.51394919405584
+      }
+    },    {
+      "id": "f003e5a0-1d3b-48a9-bd70-5e3b9c5bb163",
+      "license_plate": "740ERE",
+      "energy_level": 61,
+      "distance_to_travel": 36.6,
+      "location": {
+        "lng": 13.444773403248501,
+        "lat": 52.49972970811592
+      }
+    },    {
+      "id": "0c1fca06-95f3-4b25-80b4-9da5844bcec6",
+      "license_plate": "346ERE",
+      "energy_level": 64,
+      "distance_to_travel": 38.4,
+      "location": {
+        "lng": 13.301640418889864,
+        "lat": 52.51041737794248
+      }
+    },    {
+      "id": "bce6a194-1efa-4b63-92ab-c9a3370b60d1",
+      "license_plate": "213ERF",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.441905232681076,
+        "lat": 52.54310481624466
+      }
+    },    {
+      "id": "34392d80-d7fe-4e06-a8de-8c72bc478264",
+      "license_plate": "557ERE",
+      "energy_level": 84,
+      "distance_to_travel": 50.4,
+      "location": {
+        "lng": 13.378508503069549,
+        "lat": 52.477770987956035
+      }
+    },    {
+      "id": "d3b07b92-2143-4233-b605-ef7ab8ec0a50",
+      "license_plate": "663ERE",
+      "energy_level": 47,
+      "distance_to_travel": 28.2,
+      "location": {
+        "lng": 13.41724035407158,
+        "lat": 52.52579951303685
+      }
+    },    {
+      "id": "072bc7b0-d658-4b1e-aeef-d06ed5d6d8e5",
+      "license_plate": "555ERE",
+      "energy_level": 66,
+      "distance_to_travel": 39.6,
+      "location": {
+        "lng": 13.306852162921686,
+        "lat": 52.50791855031931
+      }
+    },    {
+      "id": "8c224f3c-2dfa-480d-a3b0-41945457b770",
+      "license_plate": "157ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.317544500000976,
+        "lat": 52.50129462500002
+      }
+    },    {
+      "id": "a3dc57cd-0a56-4bb1-b104-f86c16d9319c",
+      "license_plate": "605ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.311904071122948,
+        "lat": 52.49492674825893
+      }
+    },    {
+      "id": "8bcd19a3-f372-4846-88ee-61329c9ca0ff",
+      "license_plate": "489ERE",
+      "energy_level": 40,
+      "distance_to_travel": 24.0,
+      "location": {
+        "lng": 13.44032499057854,
+        "lat": 52.46967711037605
+      }
+    },    {
+      "id": "270d88bf-b452-4798-a37a-a17285d27947",
+      "license_plate": "581ERE",
+      "energy_level": 43,
+      "distance_to_travel": 25.8,
+      "location": {
+        "lng": 13.425380256223953,
+        "lat": 52.473139435566836
+      }
+    },    {
+      "id": "b619be5f-0fb1-43b6-bca2-9c06c8bed69c",
+      "license_plate": "481ERE",
+      "energy_level": 48,
+      "distance_to_travel": 28.799999999999997,
+      "location": {
+        "lng": 13.422671655124397,
+        "lat": 52.475159410281506
+      }
+    },    {
+      "id": "6e61861d-8842-4a35-ac10-9479e8223c13",
+      "license_plate": "757ERE",
+      "energy_level": 45,
+      "distance_to_travel": 27.0,
+      "location": {
+        "lng": 13.464248077634819,
+        "lat": 52.513753884671004
+      }
+    },    {
+      "id": "74d25cae-ef74-4342-96df-f02c05486d79",
+      "license_plate": "890ERE",
+      "energy_level": 51,
+      "distance_to_travel": 30.599999999999998,
+      "location": {
+        "lng": 13.445590625190926,
+        "lat": 52.54424352722543
+      }
+    },    {
+      "id": "cfaa3303-9e21-4d58-bcef-8196f7f2af6b",
+      "license_plate": "172ERE",
+      "energy_level": 55,
+      "distance_to_travel": 33.0,
+      "location": {
+        "lng": 13.427190744238844,
+        "lat": 52.47501092553472
+      }
+    },    {
+      "id": "e190bc7f-52da-40dc-afcd-bef43e3fb12d",
+      "license_plate": "741ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.415419493494777,
+        "lat": 52.52747915247705
+      }
+    },    {
+      "id": "7b26799e-cc8c-4cec-a660-22de3861d5fb",
+      "license_plate": "411ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.446799342155993,
+        "lat": 52.51140129464026
+      }
+    },    {
+      "id": "1ca8e121-44d6-416d-ae76-7cb883017f8e",
+      "license_plate": "504ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.435083499448998,
+        "lat": 52.46840594777489
+      }
+    },    {
+      "id": "a3ceeba6-d7ab-4105-bed5-29e449568b3d",
+      "license_plate": "580ERE",
+      "energy_level": 63,
+      "distance_to_travel": 37.8,
+      "location": {
+        "lng": 13.40148581244095,
+        "lat": 52.5300667500184
+      }
+    },    {
+      "id": "632478d6-ea3c-44f8-8df5-6f99da557b71",
+      "license_plate": "645ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.446372902767427,
+        "lat": 52.51488831031136
+      }
+    },    {
+      "id": "ac88959b-1584-4c37-97d9-810e8da626dd",
+      "license_plate": "654ERE",
+      "energy_level": 100,
+      "distance_to_travel": 60.0,
+      "location": {
+        "lng": 13.382244041086775,
+        "lat": 52.55210793826694
+      }
+    },    {
+      "id": "0b74a313-9a70-4540-8717-e205efa75f95",
+      "license_plate": "524ERE",
+      "energy_level": 73,
+      "distance_to_travel": 43.8,
+      "location": {
+        "lng": 13.449507887529531,
+        "lat": 52.47904703430458
+      }
+    },    {
+      "id": "abbd335e-4c0d-468f-bb57-eb93fb3e4ee7",
+      "license_plate": "192ERE",
+      "energy_level": 83,
+      "distance_to_travel": 49.8,
+      "location": {
+        "lng": 13.372976209864147,
+        "lat": 52.527641438895294
+      }
+    },    {
+      "id": "be70ed8a-cff3-472a-b744-e2ab3380de5c",
+      "license_plate": "235ERE",
+      "energy_level": 44,
+      "distance_to_travel": 26.4,
+      "location": {
+        "lng": 13.358617707118821,
+        "lat": 52.496469750318866
+      }
+    },    {
+      "id": "ac551287-ac74-4399-8cd7-3e5d744420a6",
+      "license_plate": "636ERE",
+      "energy_level": 55,
+      "distance_to_travel": 33.0,
+      "location": {
+        "lng": 13.303297211429074,
+        "lat": 52.505451939134396
+      }
+    },    {
+      "id": "515028f7-175d-48e1-bc62-220c40b15fc3",
+      "license_plate": "344ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.32178935557199,
+        "lat": 52.50511981392856
+      }
+    },    {
+      "id": "90e4b77a-983c-44de-8e91-ac5f4172fda1",
+      "license_plate": "869ERE",
+      "energy_level": 30,
+      "distance_to_travel": 18.0,
+      "location": {
+        "lng": 13.457131229354262,
+        "lat": 52.52881958335121
+      }
+    },    {
+      "id": "a47d7af5-9d1b-4652-bebf-fca0c52e8777",
+      "license_plate": "796ERE",
+      "energy_level": 55,
+      "distance_to_travel": 33.0,
+      "location": {
+        "lng": 13.358899190265836,
+        "lat": 52.53441049481081
+      }
+    },    {
+      "id": "48008c82-687c-4ac4-b6e6-bf129ab6dab9",
+      "license_plate": "627ERE",
+      "energy_level": 47,
+      "distance_to_travel": 28.2,
+      "location": {
+        "lng": 13.381268262748138,
+        "lat": 52.5070343996343
+      }
+    },    {
+      "id": "25bd4925-406d-4632-a91e-886c27284f8e",
+      "license_plate": "500ERE",
+      "energy_level": 93,
+      "distance_to_travel": 55.8,
+      "location": {
+        "lng": 13.3764151101448,
+        "lat": 52.48200204582132
+      }
+    },    {
+      "id": "6772efa6-4dda-4ab7-ac89-e1a00d713d11",
+      "license_plate": "892ERE",
+      "energy_level": 100,
+      "distance_to_travel": 60.0,
+      "location": {
+        "lng": 13.422528997084157,
+        "lat": 52.48677450086882
+      }
+    },    {
+      "id": "3545f051-1da9-4752-9427-d0aa329903d8",
+      "license_plate": "677ERE",
+      "energy_level": 55,
+      "distance_to_travel": 33.0,
+      "location": {
+        "lng": 13.35560186890257,
+        "lat": 52.485830334840756
+      }
+    },    {
+      "id": "25cd86ac-15c1-4fae-9b60-61a86a28eda5",
+      "license_plate": "291ERE",
+      "energy_level": 94,
+      "distance_to_travel": 56.4,
+      "location": {
+        "lng": 13.39372928903561,
+        "lat": 52.55415470843853
+      }
+    },    {
+      "id": "eed28a2c-d04a-4c84-821e-ebba19799a67",
+      "license_plate": "202ERE",
+      "energy_level": 57,
+      "distance_to_travel": 34.199999999999996,
+      "location": {
+        "lng": 13.29676448083943,
+        "lat": 52.509726700702
+      }
+    },    {
+      "id": "bda05c4d-396f-4c04-bdab-eebb031a4afd",
+      "license_plate": "552ERE",
+      "energy_level": 82,
+      "distance_to_travel": 49.199999999999996,
+      "location": {
+        "lng": 13.457588496138145,
+        "lat": 52.489729809957836
+      }
+    },    {
+      "id": "7032c789-7e93-43a3-9255-172ec5fb1774",
+      "license_plate": "761ERE",
+      "energy_level": 77,
+      "distance_to_travel": 46.199999999999996,
+      "location": {
+        "lng": 13.345610142304585,
+        "lat": 52.53119057640048
+      }
+    },    {
+      "id": "b432d313-f8e7-4c17-a800-eedf6f79c54c",
+      "license_plate": "850ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.41742566073524,
+        "lat": 52.53419697103806
+      }
+    },    {
+      "id": "ec32e7d7-8a77-40e6-ae98-cd73b4b5102b",
+      "license_plate": "572ERE",
+      "energy_level": 94,
+      "distance_to_travel": 56.4,
+      "location": {
+        "lng": 13.386871003405123,
+        "lat": 52.523876213672445
+      }
+    },    {
+      "id": "33c2c7db-8b9f-45f5-9f7d-68bca5b74eca",
+      "license_plate": "280ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.354826989046321,
+        "lat": 52.50525963967793
+      }
+    },    {
+      "id": "b3862a86-39f2-4e18-8f4a-d9830c528a00",
+      "license_plate": "325ERE",
+      "energy_level": 34,
+      "distance_to_travel": 20.4,
+      "location": {
+        "lng": 13.374007510313676,
+        "lat": 52.510522734391955
+      }
+    },    {
+      "id": "8f0fc727-2039-4004-882c-adae5af29709",
+      "license_plate": "259ERE",
+      "energy_level": 89,
+      "distance_to_travel": 53.4,
+      "location": {
+        "lng": 13.39074328391207,
+        "lat": 52.52789341832379
+      }
+    },    {
+      "id": "67d89c38-4a82-49c4-a473-339d2af5fac7",
+      "license_plate": "484ERE",
+      "energy_level": 71,
+      "distance_to_travel": 42.6,
+      "location": {
+        "lng": 13.454100209973358,
+        "lat": 52.49593903188248
+      }
+    },    {
+      "id": "f71ec3d8-33e2-4415-afb1-142436b0ec38",
+      "license_plate": "362ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.449157743451266,
+        "lat": 52.474148504854504
+      }
+    },    {
+      "id": "137594a8-7e90-47a2-a964-db9563e2839d",
+      "license_plate": "606ERE",
+      "energy_level": 61,
+      "distance_to_travel": 36.6,
+      "location": {
+        "lng": 13.286755547092078,
+        "lat": 52.51851509340393
+      }
+    },    {
+      "id": "93cabd4f-2ad4-416d-9a02-57cbdfabadbb",
+      "license_plate": "492ERE",
+      "energy_level": 58,
+      "distance_to_travel": 34.8,
+      "location": {
+        "lng": 13.430157716577455,
+        "lat": 52.550683658370914
+      }
+    },    {
+      "id": "1f142573-d614-4ec8-8cb8-616cfde8c0c7",
+      "license_plate": "642ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.377597727024034,
+        "lat": 52.514380702834636
+      }
+    },    {
+      "id": "f2bcb2da-ca2e-4f41-b1b0-9fbbed977ca3",
+      "license_plate": "638ERE",
+      "energy_level": 40,
+      "distance_to_travel": 24.0,
+      "location": {
+        "lng": 13.357594015617694,
+        "lat": 52.553056846355084
+      }
+    },    {
+      "id": "f19e4b64-2bed-4e7d-99b3-2d0042106dd6",
+      "license_plate": "383ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.478244244675862,
+        "lat": 52.49869762554009
+      }
+    },    {
+      "id": "4af085c0-7f25-4802-8525-d7b62bd59613",
+      "license_plate": "152ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.370818612233458,
+        "lat": 52.52391657765521
+      }
+    },    {
+      "id": "73cb9d06-08d8-47f7-92ba-a761b78926d0",
+      "license_plate": "787ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.36854029966117,
+        "lat": 52.52583646365254
+      }
+    },    {
+      "id": "e2995ef5-7d88-4608-9b96-f2fa5db9f5a4",
+      "license_plate": "318ERE",
+      "energy_level": 49,
+      "distance_to_travel": 29.4,
+      "location": {
+        "lng": 13.424125738718553,
+        "lat": 52.50191986839545
+      }
+    },    {
+      "id": "1cb3f8e5-018d-4735-997e-23adfe7530a0",
+      "license_plate": "353ERE",
+      "energy_level": 75,
+      "distance_to_travel": 45.0,
+      "location": {
+        "lng": 13.296802438341443,
+        "lat": 52.52878494325019
+      }
+    },    {
+      "id": "a42731f3-c0bd-4e0f-93da-1585d38dc360",
+      "license_plate": "168ERE",
+      "energy_level": 22,
+      "distance_to_travel": 13.2,
+      "location": {
+        "lng": 13.328933375133662,
+        "lat": 52.503217750058816
+      }
+    },    {
+      "id": "4849df97-927c-4dcd-9bfa-71acb71f1ffc",
+      "license_plate": "622ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.327518920138568,
+        "lat": 52.50297888578164
+      }
+    },    {
+      "id": "94e46a23-b941-45f8-9661-52117a637d44",
+      "license_plate": "374ERE",
+      "energy_level": 93,
+      "distance_to_travel": 55.8,
+      "location": {
+        "lng": 13.407958839804328,
+        "lat": 52.482180193163394
+      }
+    },    {
+      "id": "9bdf0e1e-32f3-40fc-8399-ae450f49910a",
+      "license_plate": "718ERE",
+      "energy_level": 76,
+      "distance_to_travel": 45.6,
+      "location": {
+        "lng": 13.29988218254261,
+        "lat": 52.510720051470706
+      }
+    },    {
+      "id": "cd9237cf-3d32-437c-84bf-addecbf0ce28",
+      "license_plate": "405ERE",
+      "energy_level": 42,
+      "distance_to_travel": 25.2,
+      "location": {
+        "lng": 13.415279958790888,
+        "lat": 52.51862830626181
+      }
+    },    {
+      "id": "6b019d40-1f82-4a33-9273-58767d96abf2",
+      "license_plate": "435ERE",
+      "energy_level": 69,
+      "distance_to_travel": 41.4,
+      "location": {
+        "lng": 13.464474359372984,
+        "lat": 52.5183949598219
+      }
+    },    {
+      "id": "b042ee61-9e38-4fbe-9458-1a4cc85e91c4",
+      "license_plate": "537ERE",
+      "energy_level": 55,
+      "distance_to_travel": 33.0,
+      "location": {
+        "lng": 13.359089475290316,
+        "lat": 52.489353615609154
+      }
+    },    {
+      "id": "63feba6e-cd1f-4de3-ae00-9db9d76ac7c5",
+      "license_plate": "780ERE",
+      "energy_level": 38,
+      "distance_to_travel": 22.8,
+      "location": {
+        "lng": 13.412226520818654,
+        "lat": 52.50295641666952
+      }
+    },    {
+      "id": "05a50861-6b59-4312-b367-d69e3ea168c9",
+      "license_plate": "738ERE",
+      "energy_level": 98,
+      "distance_to_travel": 58.8,
+      "location": {
+        "lng": 13.330380134681208,
+        "lat": 52.496525827358354
+      }
+    },    {
+      "id": "c47a2688-fc4d-4cb8-9763-aa90962fea97",
+      "license_plate": "563ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.368721560515594,
+        "lat": 52.55463953802558
+      }
+    },    {
+      "id": "23d964ab-dd9c-49cf-83aa-488a97c8e664",
+      "license_plate": "817ERE",
+      "energy_level": 59,
+      "distance_to_travel": 35.4,
+      "location": {
+        "lng": 13.3306,
+        "lat": 52.498146
+      }
+    },    {
+      "id": "a8a6dbde-ebc0-42af-a40d-5992df22e556",
+      "license_plate": "587ERE",
+      "energy_level": 60,
+      "distance_to_travel": 36.0,
+      "location": {
+        "lng": 13.468638933203767,
+        "lat": 52.502606569970865
+      }
+    },    {
+      "id": "dc5f24fa-7f0a-4106-8dce-43db01830fe0",
+      "license_plate": "488ERE",
+      "energy_level": 72,
+      "distance_to_travel": 43.199999999999996,
+      "location": {
+        "lng": 13.432135543172503,
+        "lat": 52.49483313023287
+      }
+    },    {
+      "id": "f6026024-128a-43b3-aa0f-155636f3a22c",
+      "license_plate": "523ERE",
+      "energy_level": 82,
+      "distance_to_travel": 49.199999999999996,
+      "location": {
+        "lng": 13.383676666665325,
+        "lat": 52.51160310416742
+      }
+    },    {
+      "id": "1d4aff67-695d-4b47-b935-dc47ceddcf4a",
+      "license_plate": "377ERF",
+      "energy_level": 51,
+      "distance_to_travel": 30.599999999999998,
+      "location": {
+        "lng": 13.421441539636506,
+        "lat": 52.48737807488954
+      }
+    },    {
+      "id": "9ccc4352-3e73-4af6-88d6-5154306e3fa1",
+      "license_plate": "257ERE",
+      "energy_level": 89,
+      "distance_to_travel": 53.4,
+      "location": {
+        "lng": 13.468155189528552,
+        "lat": 52.502566323278685
+      }
+    },    {
+      "id": "abc7a2bd-50b4-4593-bb39-16a2af214797",
+      "license_plate": "551ERE",
+      "energy_level": 64,
+      "distance_to_travel": 38.4,
+      "location": {
+        "lng": 13.316698815651096,
+        "lat": 52.50166206586552
+      }
+    },    {
+      "id": "4c93447f-e193-42c3-a409-f6201151891c",
+      "license_plate": "835ERE",
+      "energy_level": 93,
+      "distance_to_travel": 55.8,
+      "location": {
+        "lng": 13.369144985826459,
+        "lat": 52.53374367874803
+      }
+    },    {
+      "id": "865ff960-eec8-4f25-a3d1-7f956c05c3c6",
+      "license_plate": "258ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.313402670926495,
+        "lat": 52.50384242356728
+      }
+    },    {
+      "id": "98dab4be-a885-4247-bbf6-9013595c2623",
+      "license_plate": "798ERE",
+      "energy_level": 83,
+      "distance_to_travel": 49.8,
+      "location": {
+        "lng": 13.328251534627855,
+        "lat": 52.50590091487799
+      }
+    },    {
+      "id": "1d5f6e6f-8f18-411d-aa24-e63892376fce",
+      "license_plate": "578ERE",
+      "energy_level": 45,
+      "distance_to_travel": 27.0,
+      "location": {
+        "lng": 13.446889409647747,
+        "lat": 52.52102681040734
+      }
+    },    {
+      "id": "7809b11b-7760-4654-b526-42de42c8f657",
+      "license_plate": "651ERE",
+      "energy_level": 80,
+      "distance_to_travel": 48.0,
+      "location": {
+        "lng": 13.464132120027,
+        "lat": 52.52354355504669
+      }
+    },    {
+      "id": "9dcbdc89-a5b1-4ec0-bb76-b8f5ef3dd94d",
+      "license_plate": "491ERE",
+      "energy_level": 77,
+      "distance_to_travel": 46.199999999999996,
+      "location": {
+        "lng": 13.305248152349797,
+        "lat": 52.517689144225955
+      }
+    },    {
+      "id": "d898d7cb-3b91-446b-bc43-70d91cb5c930",
+      "license_plate": "544ERE",
+      "energy_level": 94,
+      "distance_to_travel": 56.4,
+      "location": {
+        "lng": 13.368532395116242,
+        "lat": 52.52581143430941
+      }
+    },    {
+      "id": "eb4eb0ea-bb13-4a88-a2db-eddcb84ced91",
+      "license_plate": "342ERE",
+      "energy_level": 69,
+      "distance_to_travel": 41.4,
+      "location": {
+        "lng": 13.434007349076419,
+        "lat": 52.50954999078766
+      }
+    },    {
+      "id": "67ceb91e-9a1a-45b9-87df-a1ce888d9cce",
+      "license_plate": "351ERE",
+      "energy_level": 35,
+      "distance_to_travel": 21.0,
+      "location": {
+        "lng": 13.391404600831962,
+        "lat": 52.501803733352105
+      }
+    },    {
+      "id": "fe4069cf-cfac-4815-82e5-7bdcdaafe218",
+      "license_plate": "855ERE",
+      "energy_level": 51,
+      "distance_to_travel": 30.599999999999998,
+      "location": {
+        "lng": 13.311254470343819,
+        "lat": 52.50786403435513
+      }
+    },    {
+      "id": "bfe79e9b-832b-4c5c-9267-2114c7bbcc44",
+      "license_plate": "752ERE",
+      "energy_level": 94,
+      "distance_to_travel": 56.4,
+      "location": {
+        "lng": 13.363346509327437,
+        "lat": 52.50738281978667
+      }
+    },    {
+      "id": "bc3b00a9-7288-4400-b340-db71f1c8df51",
+      "license_plate": "165ERE",
+      "energy_level": 89,
+      "distance_to_travel": 53.4,
+      "location": {
+        "lng": 13.322050768510985,
+        "lat": 52.49325008283207
+      }
+    },    {
+      "id": "8573c1e3-3d22-4cc7-94cf-e3c416b6ef26",
+      "license_plate": "468ERE",
+      "energy_level": 60,
+      "distance_to_travel": 36.0,
+      "location": {
+        "lng": 13.445970177561394,
+        "lat": 52.51762427592759
+      }
+    },    {
+      "id": "65c4dd88-88a7-42a0-b9b8-ee20fb156604",
+      "license_plate": "658ERE",
+      "energy_level": 69,
+      "distance_to_travel": 41.4,
+      "location": {
+        "lng": 13.333464237168519,
+        "lat": 52.48386827607366
+      }
+    },    {
+      "id": "5276007f-a368-4622-8298-9ec9cb622b6d",
+      "license_plate": "316ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.387966976753106,
+        "lat": 52.549125325548374
+      }
+    },    {
+      "id": "f9207c66-b73a-4222-b03e-578200f3e4f7",
+      "license_plate": "140ERE",
+      "energy_level": 78,
+      "distance_to_travel": 46.8,
+      "location": {
+        "lng": 13.464337788397483,
+        "lat": 52.51017806440182
+      }
+    },    {
+      "id": "be9d4e1e-7939-46b9-896a-23f8f86e7484",
+      "license_plate": "497ERE",
+      "energy_level": 60,
+      "distance_to_travel": 36.0,
+      "location": {
+        "lng": 13.36096468647458,
+        "lat": 52.52690816212326
+      }
+    },    {
+      "id": "d6283eeb-015c-497f-bc90-92bbcf653049",
+      "license_plate": "816ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.454413725966317,
+        "lat": 52.49588635553723
+      }
+    },    {
+      "id": "b42dd45d-238b-4b23-8c99-45c5d48b0fc6",
+      "license_plate": "747ERE",
+      "energy_level": 62,
+      "distance_to_travel": 37.199999999999996,
+      "location": {
+        "lng": 13.305505648229252,
+        "lat": 52.520493736745195
+      }
+    },    {
+      "id": "81e28f9f-20e9-43fd-a354-96b200a6f74c",
+      "license_plate": "566ERE",
+      "energy_level": 69,
+      "distance_to_travel": 41.4,
+      "location": {
+        "lng": 13.418033734670653,
+        "lat": 52.534753690332714
+      }
+    },    {
+      "id": "28565f7a-775e-4108-8abc-a943e688eef9",
+      "license_plate": "393ERE",
+      "energy_level": 58,
+      "distance_to_travel": 34.8,
+      "location": {
+        "lng": 13.468997934523127,
+        "lat": 52.51291654731644
+      }
+    },    {
+      "id": "db201cf7-995b-4bcd-b1b5-1852291da1d8",
+      "license_plate": "864ERE",
+      "energy_level": 60,
+      "distance_to_travel": 36.0,
+      "location": {
+        "lng": 13.345628759612271,
+        "lat": 52.50669094984723
+      }
+    },    {
+      "id": "91974cb5-42b3-4209-95cf-c81e17d0465a",
+      "license_plate": "350ERE",
+      "energy_level": 53,
+      "distance_to_travel": 31.799999999999997,
+      "location": {
+        "lng": 13.354972043657865,
+        "lat": 52.489310069896995
+      }
+    },    {
+      "id": "209e514a-7ba1-43ad-a035-0c69c3448661",
+      "license_plate": "617ERE",
+      "energy_level": 62,
+      "distance_to_travel": 37.199999999999996,
+      "location": {
+        "lng": 13.447719591226686,
+        "lat": 52.5172322982484
+      }
+    },    {
+      "id": "2de236d0-3f2a-49d6-84a6-7d60983b05f6",
+      "license_plate": "167ERE",
+      "energy_level": 95,
+      "distance_to_travel": 57.0,
+      "location": {
+        "lng": 13.295257500032205,
+        "lat": 52.507164000023394
+      }
+    },    {
+      "id": "1e30334b-bc7d-4a2a-8e20-7b93b1c03c11",
+      "license_plate": "604ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.450150407321297,
+        "lat": 52.52002912251717
+      }
+    },    {
+      "id": "b4149b20-7776-406a-94e3-fdb226b86d24",
+      "license_plate": "387ERE",
+      "energy_level": 99,
+      "distance_to_travel": 59.4,
+      "location": {
+        "lng": 13.32851364026946,
+        "lat": 52.53257780303421
+      }
+    },    {
+      "id": "631fd1d8-e26c-4a56-9845-3cfe9ec4024f",
+      "license_plate": "533ERE",
+      "energy_level": 34,
+      "distance_to_travel": 20.4,
+      "location": {
+        "lng": 13.458971479208973,
+        "lat": 52.51163379173766
+      }
+    },    {
+      "id": "02ecc706-2cfa-4822-ab82-26938949c609",
+      "license_plate": "102ERE",
+      "energy_level": 67,
+      "distance_to_travel": 40.199999999999996,
+      "location": {
+        "lng": 13.39122344471383,
+        "lat": 52.49676433056266
+      }
+    },    {
+      "id": "f30d548d-af3d-4584-baed-5ec9d0a6d2b9",
+      "license_plate": "408ERE",
+      "energy_level": 97,
+      "distance_to_travel": 58.199999999999996,
+      "location": {
+        "lng": 13.304474020711499,
+        "lat": 52.50789643984412
+      }
+    },    {
+      "id": "0f64bdc3-d380-42b3-bb81-d0f76c3c1557",
+      "license_plate": "129ERE",
+      "energy_level": 63,
+      "distance_to_travel": 37.8,
+      "location": {
+        "lng": 13.414321151021486,
+        "lat": 52.5197628750052
+      }
+    },    {
+      "id": "31a4f7a9-5184-4939-8782-4d31f2391666",
+      "license_plate": "180ERE",
+      "energy_level": 93,
+      "distance_to_travel": 55.8,
+      "location": {
+        "lng": 13.435214676275695,
+        "lat": 52.4684927696333
+      }
+    },    {
+      "id": "f0770055-0dc3-4ff9-bff0-ff55430116da",
+      "license_plate": "236ERE",
+      "energy_level": 85,
+      "distance_to_travel": 51.0,
+      "location": {
+        "lng": 13.432015834928627,
+        "lat": 52.510711557738155
+      }
+    },    {
+      "id": "fabd65c6-82f7-4964-a8cf-a4996f6a661c",
+      "license_plate": "818ERE",
+      "energy_level": 52,
+      "distance_to_travel": 31.2,
+      "location": {
+        "lng": 13.373409510665734,
+        "lat": 52.48704377209621
+      }
+    },    {
+      "id": "972eb2e6-6077-4ed4-b266-9368f0fe7c4d",
+      "license_plate": "109ERE",
+      "energy_level": 70,
+      "distance_to_travel": 42.0,
+      "location": {
+        "lng": 13.390539123884812,
+        "lat": 52.49755043618102
+      }
+    },    {
+      "id": "472c4311-6ff5-4fe6-92d1-05422792f020",
+      "license_plate": "881ERE",
+      "energy_level": 90,
+      "distance_to_travel": 54.0,
+      "location": {
+        "lng": 13.442820363294047,
+        "lat": 52.471147416241706
+      }
+    },    {
+      "id": "09da0b80-02ab-423a-846b-ce817e9abd97",
+      "license_plate": "320ERE",
+      "energy_level": 43,
+      "distance_to_travel": 25.8,
+      "location": {
+        "lng": 13.349815921383543,
+        "lat": 52.48109126613197
+      }
+    },    {
+      "id": "9037edf6-a1d7-4600-8778-8201799f06c8",
+      "license_plate": "837ERE",
+      "energy_level": 74,
+      "distance_to_travel": 44.4,
+      "location": {
+        "lng": 13.308271891095988,
+        "lat": 52.51849918936509
+      }
+    },    {
+      "id": "8c4ae0a7-72de-4ced-aac9-3c25d9dc5aa6",
+      "license_plate": "672ERE",
+      "energy_level": 30,
+      "distance_to_travel": 18.0,
+      "location": {
+        "lng": 13.461195183934196,
+        "lat": 52.501061308962775
+      }
+    },    {
+      "id": "aa1c6c8a-3750-4664-be8c-bb6d1db1b721",
+      "license_plate": "471ERE",
+      "energy_level": 94,
+      "distance_to_travel": 56.4,
+      "location": {
+        "lng": 13.340844634713473,
+        "lat": 52.49545881401871
+      }
+    },    {
+      "id": "5a6e11ee-d90c-407f-817c-135970079a13",
+      "license_plate": "711ERE",
+      "energy_level": 67,
+      "distance_to_travel": 40.199999999999996,
+      "location": {
+        "lng": 13.352193580289274,
+        "lat": 52.480187321113675
+      }
+    },    {
+      "id": "6ee1f7f5-244f-416d-859e-6bb51623616a",
+      "license_plate": "210ERE",
+      "energy_level": 39,
+      "distance_to_travel": 23.4,
+      "location": {
+        "lng": 13.41804163082969,
+        "lat": 52.49221620450352
+      }
+    },    {
+      "id": "ac4f9c25-fa53-44df-aec6-9581be7a89bb",
+      "license_plate": "311ERE",
+      "energy_level": 75,
+      "distance_to_travel": 45.0,
+      "location": {
+        "lng": 13.36389787499785,
+        "lat": 52.49140825000057
+      }
+    },    {
+      "id": "b737ead5-e900-4626-951a-0d12a7b45cd3",
+      "license_plate": "233ERE",
+      "energy_level": 61,
+      "distance_to_travel": 36.6,
+      "location": {
+        "lng": 13.306439312341338,
+        "lat": 52.51164389584324
+      }
+    },    {
+      "id": "e39ac163-c7b0-4f6f-a1fb-c80efc079cf9",
+      "license_plate": "305ERE",
+      "energy_level": 73,
+      "distance_to_travel": 43.8,
+      "location": {
+        "lng": 13.357704204308977,
+        "lat": 52.517021531001255
+      }
+    },    {
+      "id": "b7553686-31ea-46dc-be28-5fc9028c8887",
+      "license_plate": "323ERE",
+      "energy_level": 87,
+      "distance_to_travel": 52.199999999999996,
+      "location": {
+        "lng": 13.385473124996947,
+        "lat": 52.523004000000974
+      }
+    },    {
+      "id": "96bd1271-ecec-4410-912c-fcd77974ca7b",
+      "license_plate": "189ERE",
+      "energy_level": 52,
+      "distance_to_travel": 31.2,
+      "location": {
+        "lng": 13.383032125009784,
+        "lat": 52.51185550011264
+      }
+    },    {
+      "id": "4ca14e29-fff0-4458-beb5-16235ea855db",
+      "license_plate": "696ERE",
+      "energy_level": 68,
+      "distance_to_travel": 40.8,
+      "location": {
+        "lng": 13.459664275959009,
+        "lat": 52.51470375141817
+      }
+    },    {
+      "id": "6ed760c7-a2b4-4761-b1a8-38a32dd032dd",
+      "license_plate": "321ERE",
+      "energy_level": 49,
+      "distance_to_travel": 29.4,
+      "location": {
+        "lng": 13.412646874919751,
+        "lat": 52.5026485416808
+      }
+    },    {
+      "id": "29945d87-5250-445f-8534-0394bac09c51",
+      "license_plate": "640ERE",
+      "energy_level": 42,
+      "distance_to_travel": 25.2,
+      "location": {
+        "lng": 13.301726162068967,
+        "lat": 52.50984985195424
+      }
+    },    {
+      "id": "5b846905-f7d1-477b-a479-4466c90b5f32",
+      "license_plate": "635ERE",
+      "energy_level": 96,
+      "distance_to_travel": 57.599999999999994,
+      "location": {
+        "lng": 13.299403806423868,
+        "lat": 52.51315634250994
+      }
+    },    {
+      "id": "3bbc6776-14f1-48f9-99cd-48cf42f7594f",
+      "license_plate": "205ERE",
+      "energy_level": 62,
+      "distance_to_travel": 37.199999999999996,
+      "location": {
+        "lng": 13.460712000000497,
+        "lat": 52.494278333333554
+      }
+    },    {
+      "id": "69823e2f-c6a1-4d1d-80fc-f06b862510c9",
+      "license_plate": "431ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.448906809401384,
+        "lat": 52.5112861149168
+      }
+    },    {
+      "id": "b08ffab3-b1bd-479c-a8d6-fa41d06509f8",
+      "license_plate": "445ERE",
+      "energy_level": 86,
+      "distance_to_travel": 51.6,
+      "location": {
+        "lng": 13.376840361055802,
+        "lat": 52.4798662616751
+      }
+    },    {
+      "id": "2db5f4e9-c69b-47ba-aafd-eeb3a712b80a",
+      "license_plate": "880ERE",
+      "energy_level": 71,
+      "distance_to_travel": 42.6,
+      "location": {
+        "lng": 13.439177977771836,
+        "lat": 52.5058610409356
+      }
+    }    ]
+  }
+}
